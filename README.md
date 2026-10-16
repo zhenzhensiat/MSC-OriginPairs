@@ -7,7 +7,7 @@ Code and classifier for the paper:
 > identifies reproducible tissue-of-origin signatures in human mesenchymal
 > stromal cells. *STEM CELLS* (submitted).
 
-Archived release: [Zenodo DOI]
+Archived release: [10.5281/zenodo.23412810](https://doi.org/10.5281/zenodo.23412810)
 
 MSC-OriginPairs assigns the tissue of origin of culture-expanded human mesenchymal
 stromal cells (bone marrow, adipose tissue or umbilical cord) from 30 within-sample
@@ -99,8 +99,8 @@ under CC BY 4.0.
 
 ## Citation
 
-Please cite the paper above and the archived release ([Zenodo DOI]). Citation metadata
-is in `CITATION.cff`.
+Please cite the paper above and the archived release (DOI: 10.5281/zenodo.23412810).
+Citation metadata is in `CITATION.cff`.
 
 ## Contact
 
