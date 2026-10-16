@@ -1,0 +1,10 @@
+comparison	auc	post_hoc
+C_inclass_vs_all_ooc	0.748065543923532	TRUE
+C_inclass_vs_amnion	0.96646942800789	TRUE
+C_inclass_vs_bone	0.349358974358974	TRUE
+C_inclass_vs_brain	0.665351742274819	TRUE
+C_inclass_vs_dental_pulp	0.743589743589744	TRUE
+C_inclass_vs_ipsc_derived	0.931725079654074	TRUE
+C_inclass_vs_periodontal	0.956607495069034	TRUE
+C_inclass_vs_placenta	0.98422090729783	TRUE
+C_inclass_vs_tonsil	0.896449704142012	TRUE

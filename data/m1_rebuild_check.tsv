@@ -1,0 +1,4 @@
+gse	type	n_raw	n_mapped	n_overlap	median_spearman	note
+GSE199826	RNA-seq counts	24802	23720	23720	1	colnames may differ (author ID vs GSM)
+GSE12274	GPL570 array	NA	NA	NA	NA	probe IDs, need GPL570.annot (pending NCBI)
+GSE57151	GPL16686 array	NA	NA	NA	NA	probe IDs, need GPL16686.annot (pending NCBI)

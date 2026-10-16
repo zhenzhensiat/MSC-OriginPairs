@@ -1,0 +1,8 @@
+stratum	level	n	n_studies	ba
+scale	array	78	9	0.933333333333333
+scale	log2TPM	37	7	1
+scale	logCPM	61	6	1
+passage_bin	<=P5	32	4	1
+passage_bin	>P5	3	1	1
+passage_bin	unknown	141	18	0.933333333333333
+medium	unknown	176	22	0.957575757575758

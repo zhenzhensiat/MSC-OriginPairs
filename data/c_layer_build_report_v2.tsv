@@ -1,0 +1,26 @@
+gse	src	status	n_genes_raw	n_genes_mapped	n_cols	n_mapped_gsm	n_keep_expected	n_keep_found	n_same_cell_removed	n_sex_mismatch	gene_hit_rate	note
+GSE130393	special_130393	too_few_genes_after_cleaning: 10 rows	188	NA	8	NA	NA	NA	0	NA	0.9096	161 NA-containing rows excluded during read-in;
+GSE144605	series_matrix	ok	32496	30044	12	12	3	3	0	NA	0.9285	Probe annotation GPL28102 detection rate 0.999; same cell: no same-platform D study;
+GSE200086	special_tar_gsm	ok	20812	19864	8	8	4	4	0	NA	0.9561	Same cell: no same-platform D study;
+GSE217709	GSE217709_DKD.vs.controls_RPKM.tsv.gz	ok	64253	34519	44	38	9	9	0	NA	0.5981	3 all-NA columns excluded during read-in; same cell: no same-platform D study;
+GSE222263	special_222263	ok	14275	13050	6	6	3	3	0	NA	0.9148	
+GSE265844	special_tar_gsm	ok	12190	12190	8	8	4	4	0	NA	1	
+GSE308101	GSE308101_gene_fpkm_sub.xlsx	ok	58735	35336	24	15	5	5	0	NA	0.6391	5 all-NA columns excluded during read-in; 2115 NA-containing rows excluded during read-in;
+GSE90149	series_matrix	ok	54675	19551	25	25	11	11	0	NA	0.9163	Probe annotation GPL570 detection rate 0.825;
+GSE111495	series_matrix	ok	32615	18256	22	22	11	11	0	NA	0.9558	Probe annotation GPL16297 detection rate 0.679; same cell: no same-platform D study;
+GSE129801	special_tar_gsm	ok	30017	25587	22	22	7	7	0	NA	0.8541	
+GSE14828	series_matrix	ok	22277	12391	18	18	9	9	0	NA	0.936	Probe annotation GPL571 detection rate 0.95;
+GSE189524	NA	read_fail: GSE189524: gene_name/gene_id are all UCSC transcript IDs (uc*, 182434/182434), no gene symbol-level annotation - not constructed	NA	NA	NA	NA	NA	NA	0	NA	NA	
+GSE24871	series_matrix	ok	31061	2284	16	16	7	7	0	NA	0.8711	Probe annotation GPL7088 detection rate 0.823; 19862 NA-containing rows excluded during read-in; same cell: no same-platform D study;
+GSE40033	series_matrix	ok	42405	19774	14	14	4	4	0	NA	0.9074	Probe annotation GPL14550 detection rate 0.718;
+GSE63099	series_matrix	ok	47619	18205	12	12	6	6	0	NA	0.9825	Probe annotation GPL6884 detection rate 0.581; same cell: no same-platform D study;
+GSE107214	series_matrix	ok	47323	20463	42	42	21	21	0	NA	0.9896	Probe annotation GPL10558 detection rate 0.661; same cell: no same-platform D study;
+GSE118808	GSE118808_Comparative_analysis_of_MSCs_-Count_Fpkm.txt.gz	ok	33680	23113	24	24	4	4	0	NA	0.6865	Same cell: no same-platform D study;
+GSE165811	GSE165811_counts.csv.gz	ok	26367	25199	50	32	32	32	0	NA	0.9572	Same cell: no same-platform D study;
+GSE169533	special_169533	too_few_keep_cols	23043	20645	4	4	2	2	0	NA	0.8972	
+GSE215041	special_215041	ok	25737	23323	3	3	3	3	0	NA	0.9564	Same cell: no same-platform D study;
+GSE224190	GSE224190_gene_FPKM.txt.gz	ok	20313	19679	7	6	3	3	0	NA	0.9692	1 all-NA column excluded during read-in; same cell: no same-platform D study;
+GSE269586	special_269586	ok	36485	25691	11	11	11	11	0	NA	0.7045	
+GSE62665	series_matrix	ok	54675	19551	6	6	3	3	0	NA	0.9163	Probe annotation GPL570 detection rate 0.825;
+GSE72597	series_matrix	ok	70534	23860	7	7	5	5	0	NA	0.3627	Probe annotation GPL17586 detection rate 1;
+GSE76295	series_matrix	ok	70534	23860	16	16	11	11	0	NA	0.3627	Probe annotation GPL17586 detection rate 1;

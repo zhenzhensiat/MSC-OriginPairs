@@ -1,0 +1,12 @@
+cff-version: 1.2.0
+message: "If you use this code or the result tables, please cite this repository."
+title: "MSC-OriginPairs: analysis code and classifier for multi-study MSC tissue-of-origin classification"
+authors:
+  - family-names: Zhang
+    given-names: Zhen
+  - family-names: Qin
+    given-names: Meirong
+    orcid: "https://orcid.org/0009-0006-4077-5689"
+type: software
+license: MIT
+version: 1.0.0

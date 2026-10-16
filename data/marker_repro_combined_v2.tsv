@@ -1,0 +1,4 @@
+scope	n_testable	reproduced_claimed	reproduced_opposite	not_reproduced	rate_claimed	rate_opposite	rate_not
+prior_phase	99	36	16	47	0.3636	0.1616	0.4747
+extension	57	2	9	46	0.0351	0.1579	0.807
+combined	156	38	25	93	0.2436	0.1603	0.5962

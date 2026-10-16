@@ -1,0 +1,7 @@
+gse	n_samples	n_donors	n_passage_vals	n_donors_multi_passage	status	note
+GSE39035	16	8	2	8	ok	scale=array; genes=19491
+GSE34303	57	7	11	7	ok	scale=array; genes=18672
+GSE46019	6	3	2	3	ok	scale=array; genes=18678
+GSE9593	13	3	9	3	ok	scale=log2TPM; genes=19551
+GSE276163	15	6	3	6	ok	scale=log2TPM; genes=43367
+GSE178514	9	3	3	3	ok	scale=log2TPM; genes=16878

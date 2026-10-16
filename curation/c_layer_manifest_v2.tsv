@@ -1,0 +1,477 @@
+gse	gsm	source_class	platform	sample_title	role	rule_id
+GSE130393	GSM3737403	AD	10558	donor 1 control	keep	keep_rule
+GSE130393	GSM3737404	AD	10558	donor 1 hypoxia	exclude	arm_excl
+GSE130393	GSM3737405	AD	10558	donor 2 control	keep	keep_rule
+GSE130393	GSM3737406	AD	10558	donor 2 hypoxia	exclude	arm_excl
+GSE130393	GSM3737407	AD	10558	donor 3 control	keep	keep_rule
+GSE130393	GSM3737408	AD	10558	donor 3 hypoxia	exclude	arm_excl
+GSE130393	GSM3737409	AD	10558	donor 4 control	keep	keep_rule
+GSE130393	GSM3737410	AD	10558	donor 4 hypoxia	exclude	arm_excl
+GSE144605	GSM4291923	AD	28102	HRMVPC donor 1 high glucose	exclude	arm_excl
+GSE144605	GSM4291924	AD	28102	HRMVPC donor 2 high glucose	exclude	arm_excl
+GSE144605	GSM4291925	AD	28102	HRMVPC donor 3 high glucose	exclude	arm_excl
+GSE144605	GSM4291926	AD	28102	HRMVPC donor 1 normal glucose	exclude	arm_excl
+GSE144605	GSM4291927	AD	28102	HRMVPC donor 2 normal glucose	exclude	arm_excl
+GSE144605	GSM4291928	AD	28102	HRMVPC donor 3 normal glucose	exclude	arm_excl
+GSE144605	GSM4291929	AD	28102	ASC donor 1 high glucose	exclude	arm_excl
+GSE144605	GSM4291930	AD	28102	ASC donor 2 high glucose	exclude	arm_excl
+GSE144605	GSM4291931	AD	28102	ASC donor 3 high glucose	exclude	arm_excl
+GSE144605	GSM4291932	AD	28102	ASC donor 1 normal glucose	keep	keep_rule
+GSE144605	GSM4291933	AD	28102	ASC donor 2 normal glucose	keep	keep_rule
+GSE144605	GSM4291934	AD	28102	ASC donor 3 normal glucose	keep	keep_rule
+GSE200086	GSM6008414	AD	24014	ADSC, Donor 55, SFD culture condition	exclude	arm_excl
+GSE200086	GSM6008415	AD	24014	ADSC, Donor 55, FBS culture condition	keep	keep_rule
+GSE200086	GSM6008416	AD	24014	ADSC, Donor 61, SFD culture condition	exclude	arm_excl
+GSE200086	GSM6008417	AD	24014	ADSC, Donor 61, FBS culture condition	keep	keep_rule
+GSE200086	GSM6008418	AD	24014	ADSC, Donor 66, SFD culture condition	exclude	arm_excl
+GSE200086	GSM6008419	AD	24014	ADSC, Donor 66, FBS culture condition	keep	keep_rule
+GSE200086	GSM6008420	AD	24014	ADSC, Donor 67, SFD culture condition	exclude	arm_excl
+GSE200086	GSM6008421	AD	24014	ADSC, Donor 67, FBS culture condition	keep	keep_rule
+GSE212368	GSM6528724	AD	32619	Licensed 2D-N Donor 1	exclude_f4	F4_exit
+GSE212368	GSM6528725	AD	32619	Licensed 2D-N Donor 2	exclude_f4	F4_exit
+GSE212368	GSM6528726	AD	32619	Licensed 2D-N Donor 3	exclude_f4	F4_exit
+GSE212368	GSM6528727	AD	32619	Licensed 2D-N Donor 4	exclude_f4	F4_exit
+GSE212368	GSM6528728	AD	32619	Licensed 2D-H Donor 1	exclude_f4	F4_exit
+GSE212368	GSM6528729	AD	32619	Licensed 2D-H Donor 2	exclude_f4	F4_exit
+GSE212368	GSM6528730	AD	32619	Licensed 2D-H Donor 3	exclude_f4	F4_exit
+GSE212368	GSM6528731	AD	32619	Licensed 2D-H Donor 4	exclude_f4	F4_exit
+GSE212368	GSM6528732	AD	32619	Licensed 2D-H Donor 5	exclude_f4	F4_exit
+GSE212368	GSM6528733	AD	32619	Licensed 3D-N Donor 1	exclude_f4	F4_exit
+GSE212368	GSM6528734	AD	32619	Licensed 3D-N Donor 2	exclude_f4	F4_exit
+GSE212368	GSM6528735	AD	32619	Licensed 3D-N Donor 3	exclude_f4	F4_exit
+GSE212368	GSM6528736	AD	32619	Licensed 3D-N Donor 4	exclude_f4	F4_exit
+GSE212368	GSM6528737	AD	32619	Licensed 3D-N Donor 5	exclude_f4	F4_exit
+GSE212368	GSM6528738	AD	32619	Unlicensed 2D-N Donor 1	exclude_f4	F4_exit
+GSE212368	GSM6528739	AD	32619	Unlicensed 2D-N Donor 2	exclude_f4	F4_exit
+GSE212368	GSM6528740	AD	32619	Unlicensed 2D-N Donor 3	exclude_f4	F4_exit
+GSE212368	GSM6528741	AD	32619	Unlicensed 2D-N Donor 4	exclude_f4	F4_exit
+GSE212368	GSM6528742	AD	32619	Unlicensed 2D-N Donor 5	exclude_f4	F4_exit
+GSE212368	GSM6528743	AD	32619	Unlicensed 2D-H Donor 1	exclude_f4	F4_exit
+GSE212368	GSM6528744	AD	32619	Unlicensed 2D-H Donor 2	exclude_f4	F4_exit
+GSE212368	GSM6528745	AD	32619	Unlicensed 2D-H Donor 3	exclude_f4	F4_exit
+GSE212368	GSM6528746	AD	32619	Unlicensed 2D-H Donor 4	exclude_f4	F4_exit
+GSE212368	GSM6528747	AD	32619	Unlicensed 2D-H Donor 5	exclude_f4	F4_exit
+GSE212368	GSM6528748	AD	32619	Unlicensed 3D-N Donor 1	exclude_f4	F4_exit
+GSE212368	GSM6528749	AD	32619	Unlicensed 3D-N Donor 2	exclude_f4	F4_exit
+GSE212368	GSM6528750	AD	32619	Unlicensed 3D-N Donor 3	exclude_f4	F4_exit
+GSE212368	GSM6528751	AD	32619	Unlicensed 3D-N Donor 4	exclude_f4	F4_exit
+GSE212368	GSM6528752	AD	32619	Unlicensed 3D-N Donor 5	exclude_f4	F4_exit
+GSE217709	GSM6725269	AD	20301	DKD.1	exclude	arm_excl
+GSE217709	GSM6725270	AD	20301	DKD.2	exclude	arm_excl
+GSE217709	GSM6725271	AD	20301	DKD.3	exclude	arm_excl
+GSE217709	GSM6725272	AD	20301	DKD.4	exclude	arm_excl
+GSE217709	GSM6725273	AD	20301	DKD.5	exclude	arm_excl
+GSE217709	GSM6725274	AD	20301	DKD.6	exclude	arm_excl
+GSE217709	GSM6725275	AD	20301	DKD.7	exclude	arm_excl
+GSE217709	GSM6725276	AD	20301	DKD.8	exclude	arm_excl
+GSE217709	GSM6725277	AD	20301	DKD.9	exclude	arm_excl
+GSE217709	GSM6725278	AD	20301	DKD.10	exclude	arm_excl
+GSE217709	GSM6725279	AD	20301	DKD.11	exclude	arm_excl
+GSE217709	GSM6725280	AD	20301	DKD.12	exclude	arm_excl
+GSE217709	GSM6725281	AD	20301	DKD.13	exclude	arm_excl
+GSE217709	GSM6725282	AD	20301	DKD.14	exclude	arm_excl
+GSE217709	GSM6725283	AD	20301	DKD.15	exclude	arm_excl
+GSE217709	GSM6725284	AD	20301	DKD.16	exclude	arm_excl
+GSE217709	GSM6725285	AD	20301	DKD.17	exclude	arm_excl
+GSE217709	GSM6725286	AD	20301	DKD.18	exclude	arm_excl
+GSE217709	GSM6725287	AD	20301	DKD.19	exclude	arm_excl
+GSE217709	GSM6725288	AD	20301	DKD.20	exclude	arm_excl
+GSE217709	GSM6725289	AD	20301	DKD.21	exclude	arm_excl
+GSE217709	GSM6725290	AD	20301	DKD.46	exclude	arm_excl
+GSE217709	GSM6725291	AD	20301	DKD.47_R	exclude	arm_excl
+GSE217709	GSM6725292	AD	20301	DKD.48	exclude	arm_excl
+GSE217709	GSM6725293	AD	20301	DKD.49	exclude	arm_excl
+GSE217709	GSM6725294	AD	20301	DKD.50_R	exclude	arm_excl
+GSE217709	GSM6725295	AD	20301	DKD.51	exclude	arm_excl
+GSE217709	GSM6725296	AD	20301	DKD.52	exclude	arm_excl
+GSE217709	GSM6725297	AD	20301	DKD.53	exclude	arm_excl
+GSE217709	GSM6725298	AD	20301	Control.30	keep	keep_rule
+GSE217709	GSM6725299	AD	20301	Control.31	keep	keep_rule
+GSE217709	GSM6725300	AD	20301	Control.35	keep	keep_rule
+GSE217709	GSM6725301	AD	20301	Control.38	keep	keep_rule
+GSE217709	GSM6725302	AD	20301	Control.41	keep	keep_rule
+GSE217709	GSM6725303	AD	20301	Control.42	keep	keep_rule
+GSE217709	GSM6725304	AD	20301	Control.43	keep	keep_rule
+GSE217709	GSM6725305	AD	20301	Control.44	keep	keep_rule
+GSE217709	GSM6725306	AD	20301	Control.45	keep	keep_rule
+GSE222263	GSM6919259	AD	24676	L-ASCs-1	keep	keep_rule
+GSE222263	GSM6919260	AD	24676	L-ASCs-2	keep	keep_rule
+GSE222263	GSM6919261	AD	24676	L-ASCs-3	keep	keep_rule
+GSE222263	GSM6919262	AD	24676	O-ASCs-1	exclude	arm_excl
+GSE222263	GSM6919263	AD	24676	O-ASCs-2	exclude	arm_excl
+GSE222263	GSM6919264	AD	24676	O-ASCs-3	exclude	arm_excl
+GSE265844	GSM8229976	AD	24676	adhered_MSCs, biol rep 1	keep	keep_rule
+GSE265844	GSM8229977	AD	24676	adhered_MSCs, biol rep 2	keep	keep_rule
+GSE265844	GSM8229978	AD	24676	adhered_MSCs, biol rep 3	keep	keep_rule
+GSE265844	GSM8229979	AD	24676	adhered_MSCs, biol rep 4	keep	keep_rule
+GSE265844	GSM8229980	AD	24676	isolated_MSCs, biol rep 1	exclude	arm_excl
+GSE265844	GSM8229981	AD	24676	isolated_MSCs, biol rep 2	exclude	arm_excl
+GSE265844	GSM8229982	AD	24676	isolated_MSCs, biol rep 3	exclude	arm_excl
+GSE265844	GSM8229983	AD	24676	isolated_MSCs, biol rep 4	exclude	arm_excl
+GSE308101	GSM9237884	AD	24676	SUB25_1, humanASC, BMI<25	keep	keep_rule
+GSE308101	GSM9237885	AD	24676	SUB25_2, humanASC, BMI<25	keep	keep_rule
+GSE308101	GSM9237886	AD	24676	SUB25_3, humanASC, BMI<25	keep	keep_rule
+GSE308101	GSM9237887	AD	24676	SUB25_4, humanASC, BMI<25	keep	keep_rule
+GSE308101	GSM9237888	AD	24676	SUB25_5, humanASC, BMI<25	keep	keep_rule
+GSE308101	GSM9237889	AD	24676	SUB35_1, humanASC, BMI≥35	exclude	arm_excl
+GSE308101	GSM9237890	AD	24676	SUB35_2, humanASC, BMI≥35	exclude	arm_excl
+GSE308101	GSM9237891	AD	24676	SUB35_3, humanASC, BMI≥35	exclude	arm_excl
+GSE308101	GSM9237892	AD	24676	SUB35_4, humanASC, BMI≥35	exclude	arm_excl
+GSE308101	GSM9237893	AD	24676	SUB35_5, humanASC, BMI≥35	exclude	arm_excl
+GSE308101	GSM9237894	AD	24676	SUB40_1, humanASC, BMI≥40	exclude	arm_excl
+GSE308101	GSM9237895	AD	24676	SUB40_2, humanASC, BMI≥40	exclude	arm_excl
+GSE308101	GSM9237896	AD	24676	SUB40_3, humanASC, BMI≥40	exclude	arm_excl
+GSE308101	GSM9237897	AD	24676	SUB40_4, humanASC, BMI≥40	exclude	arm_excl
+GSE308101	GSM9237898	AD	24676	SUB40_5, humanASC, BMI≥40	exclude	arm_excl
+GSE90149	GSM2399744	BM	570	mesenchymal stromal cell, bone marrow, patient BRD	keep	keep_rule
+GSE90149	GSM2399745	BM	570	mesenchymal stromal cell, bone marrow, patient LQ	keep	keep_rule
+GSE90149	GSM2399746	BM	570	mesenchymal stromal cell, bone marrow, patient WHR	keep	keep_rule
+GSE90149	GSM2399747	BM	570	mesenchymal stromal cell, bone marrow, patient GSK	keep	keep_rule
+GSE90149	GSM2399748	BM	570	mesenchymal stromal cell, bone marrow, patient SDK	keep	keep_rule
+GSE90149	GSM2399749	BM	570	mesenchymal stromal cell, bone marrow, patient BRM	keep	keep_rule
+GSE90149	GSM2399750	BM	570	mesenchymal stromal cell, bone marrow, patient HNC	keep	keep_rule
+GSE90149	GSM2399751	BM	570	mesenchymal stromal cell, bone marrow, patient BEH	keep	keep_rule
+GSE90149	GSM2399752	BM	570	mesenchymal stromal cell, bone marrow, patient ANB	keep	keep_rule
+GSE90149	GSM2399753	BM	570	mesenchymal stromal cell, bone marrow, patient SRF	keep	keep_rule
+GSE90149	GSM2399754	BM	570	mesenchymal stromal cell, bone marrow, patient KKG	keep	keep_rule
+GSE90149	GSM2399755	BM	570	mesenchymal stromal cells, fetal side of placenta patient no. 35	exclude	arm_excl
+GSE90149	GSM2399756	BM	570	mesenchymal stromal cells, fetal side of placenta patient no. 33	exclude	arm_excl
+GSE90149	GSM2399757	BM	570	mesenchymal stromalcells, maternal side of placenta patient no. 33	exclude	arm_excl
+GSE90149	GSM2399758	BM	570	mesenchymal stromal cells, fetal side of placenta patient no. 30	exclude	arm_excl
+GSE90149	GSM2399759	BM	570	mesenchymal stromal cells, fetal side of placenta patient no. 45	exclude	arm_excl
+GSE90149	GSM2399760	BM	570	mesenchymal stromalcells, maternal side of placenta patient no. 45	exclude	arm_excl
+GSE90149	GSM2399761	BM	570	mesenchymal stromal cells, fetal side of placenta patient no. 46 rep1	exclude	arm_excl
+GSE90149	GSM2399762	BM	570	mesenchymal stromalcells, maternal side of placenta patient no. 46 rep1	exclude	arm_excl
+GSE90149	GSM2399763	BM	570	mesenchymal stromal cells, fetal side of placenta patient no. 46 rep2	exclude	arm_excl
+GSE90149	GSM2399764	BM	570	mesenchymal stromalcells, maternal side of placenta patient no. 46 rep2	exclude	arm_excl
+GSE90149	GSM2399765	BM	570	mesenchymal stromal cells, fetal side of placenta patient no. 47	exclude	arm_excl
+GSE90149	GSM2399766	BM	570	mesenchymal stromalcells, maternal side of placenta patient no. 47	exclude	arm_excl
+GSE90149	GSM2399767	BM	570	mesenchymal stromal cells, fetal side of placenta patient no. 31	exclude	arm_excl
+GSE90149	GSM2399768	BM	570	mesenchymal stromalcells, maternal side of placenta patient no. 30	exclude	arm_excl
+GSE111495	GSM3032253	BM	16297	BM01-P2-FS20	keep	keep_rule
+GSE111495	GSM3032254	BM	16297	BM01-P2-PF10	exclude	arm_excl
+GSE111495	GSM3032255	BM	16297	BM01-P3-FS20	keep	keep_rule
+GSE111495	GSM3032256	BM	16297	BM01-P3-PF10	exclude	arm_excl
+GSE111495	GSM3032257	BM	16297	BM01-P4-FS20	keep	keep_rule
+GSE111495	GSM3032258	BM	16297	BM01-P4-PF10	exclude	arm_excl
+GSE111495	GSM3032259	BM	16297	BM03-P3-FS20	keep	keep_rule
+GSE111495	GSM3032260	BM	16297	BM03-P3-PF10	exclude	arm_excl
+GSE111495	GSM3032261	BM	16297	BM03-P4-FS20	keep	keep_rule
+GSE111495	GSM3032262	BM	16297	BM03-P4-PF10	exclude	arm_excl
+GSE111495	GSM3032263	BM	16297	BM04-P3-FS20	keep	keep_rule
+GSE111495	GSM3032264	BM	16297	BM04-P3-PF10	exclude	arm_excl
+GSE111495	GSM3032265	BM	16297	BM04-P4-FS20	keep	keep_rule
+GSE111495	GSM3032266	BM	16297	BM04-P4-PF10	exclude	arm_excl
+GSE111495	GSM3032267	BM	16297	BM06-P2-FS20	keep	keep_rule
+GSE111495	GSM3032268	BM	16297	BM06-P2-PF10	exclude	arm_excl
+GSE111495	GSM3032269	BM	16297	BM06-P3-FS20	keep	keep_rule
+GSE111495	GSM3032270	BM	16297	BM06-P3-PF10	exclude	arm_excl
+GSE111495	GSM3032271	BM	16297	BM06-P4-FS20	keep	keep_rule
+GSE111495	GSM3032272	BM	16297	BM06-P4-PF10	exclude	arm_excl
+GSE111495	GSM3032273	BM	16297	BM07-P4-FS20	keep	keep_rule
+GSE111495	GSM3032274	BM	16297	BM07-P4-PF10	exclude	arm_excl
+GSE129801	GSM3722279	BM	11154	HD-10	keep	keep_rule
+GSE129801	GSM3722280	BM	11154	HD-3	keep	keep_rule
+GSE129801	GSM3722281	BM	11154	HD-4	keep	keep_rule
+GSE129801	GSM3722282	BM	11154	HD-5	keep	keep_rule
+GSE129801	GSM3722283	BM	11154	HD-6	keep	keep_rule
+GSE129801	GSM3722284	BM	11154	HD-7	keep	keep_rule
+GSE129801	GSM3722285	BM	11154	HD-9	keep	keep_rule
+GSE129801	GSM3722286	BM	11154	MM-6	exclude	arm_excl
+GSE129801	GSM3722287	BM	11154	MM-7	exclude	arm_excl
+GSE129801	GSM3722288	BM	11154	MGUS-9	exclude	arm_excl
+GSE129801	GSM3722289	BM	11154	MM-8	exclude	arm_excl
+GSE129801	GSM3722290	BM	11154	MM-9	exclude	arm_excl
+GSE129801	GSM3722291	BM	11154	MGUS-10	exclude	arm_excl
+GSE129801	GSM3722292	BM	11154	MM-10	exclude	arm_excl
+GSE129801	GSM3722293	BM	11154	MM-11	exclude	arm_excl
+GSE129801	GSM3722294	BM	11154	MGUS-11	exclude	arm_excl
+GSE129801	GSM3722295	BM	11154	MM-12	exclude	arm_excl
+GSE129801	GSM3722296	BM	11154	MGUS-12	exclude	arm_excl
+GSE129801	GSM3722297	BM	11154	MM-13	exclude	arm_excl
+GSE129801	GSM3722298	BM	11154	MM-14	exclude	arm_excl
+GSE129801	GSM3722299	BM	11154	MGUS-13	exclude	arm_excl
+GSE129801	GSM3722300	BM	11154	MM-15	exclude	arm_excl
+GSE14828	GSM371147	BM	571	1CP1	keep	keep_rule
+GSE14828	GSM371148	BM	571	1FP1	exclude	arm_excl
+GSE14828	GSM371149	BM	571	2CP1	keep	keep_rule
+GSE14828	GSM371150	BM	571	2FP1	exclude	arm_excl
+GSE14828	GSM371151	BM	571	3CP1	keep	keep_rule
+GSE14828	GSM371152	BM	571	3FP1	exclude	arm_excl
+GSE14828	GSM371153	BM	571	1CP4	keep	keep_rule
+GSE14828	GSM371154	BM	571	1FP4	exclude	arm_excl
+GSE14828	GSM371155	BM	571	2CP4	keep	keep_rule
+GSE14828	GSM371156	BM	571	2FP4	exclude	arm_excl
+GSE14828	GSM371157	BM	571	3CP4	keep	keep_rule
+GSE14828	GSM371158	BM	571	3FP4	exclude	arm_excl
+GSE14828	GSM371159	BM	571	1CP7	keep	keep_rule
+GSE14828	GSM371160	BM	571	1FP7	exclude	arm_excl
+GSE14828	GSM371161	BM	571	2CP7	keep	keep_rule
+GSE14828	GSM371162	BM	571	2FP7	exclude	arm_excl
+GSE14828	GSM371163	BM	571	3CP7	keep	keep_rule
+GSE14828	GSM371164	BM	571	3FP7	exclude	arm_excl
+GSE189524	GSM5703090	BM	11154	FO1 O	exclude	arm_excl
+GSE189524	GSM5703091	BM	11154	FO2 O	exclude	arm_excl
+GSE189524	GSM5703092	BM	11154	FO3 O	exclude	arm_excl
+GSE189524	GSM5703093	BM	11154	FO1D O	exclude	arm_excl
+GSE189524	GSM5703094	BM	11154	FO2D O	exclude	arm_excl
+GSE189524	GSM5703095	BM	11154	FO3D O	exclude	arm_excl
+GSE189524	GSM5703096	BM	11154	CF1 NO	keep	keep_rule
+GSE189524	GSM5703097	BM	11154	CF2 NO	keep	keep_rule
+GSE189524	GSM5703098	BM	11154	CF3 NO	keep	keep_rule
+GSE189524	GSM5703099	BM	11154	CF4 NO	keep	keep_rule
+GSE189524	GSM5703100	BM	11154	CF1D NO	keep	keep_rule
+GSE189524	GSM5703101	BM	11154	CF2D NO	keep	keep_rule
+GSE189524	GSM5703102	BM	11154	CF3D NO	keep	keep_rule
+GSE189524	GSM5703103	BM	11154	CF4D NO	keep	keep_rule
+GSE24871	GSM611592	BM	7088	Hematopoietic stem cells CD34-1 - mAdbID:104740	exclude	arm_excl
+GSE24871	GSM611593	BM	7088	Hematopoietic stem cells CD34-2 - mAdbID:104741	exclude	arm_excl
+GSE24871	GSM611594	BM	7088	Hematopoietic stem cells CD34-3 - mAdbID:104742	exclude	arm_excl
+GSE24871	GSM611595	BM	7088	hESCL H9 - mAdbID:104743	exclude	arm_excl
+GSE24871	GSM611596	BM	7088	hESCL H1 - mAdbID:104744	exclude	arm_excl
+GSE24871	GSM611597	BM	7088	hESCL BG10V - mAdbID:104745	exclude	arm_excl
+GSE24871	GSM611598	BM	7088	BMSC-1 - mAdbID:104746	keep	keep_rule
+GSE24871	GSM611599	BM	7088	BMSC-2 - mAdbID:104747	keep	keep_rule
+GSE24871	GSM611600	BM	7088	BMSC-3 - mAdbID:104748	keep	keep_rule
+GSE24871	GSM611601	BM	7088	BMSC-4 - mAdbID:104749	keep	keep_rule
+GSE24871	GSM611602	BM	7088	BMSC-5 - mAdbID:108269	keep	keep_rule
+GSE24871	GSM611603	BM	7088	BMSC-6 - mAdbID:108270	keep	keep_rule
+GSE24871	GSM611604	BM	7088	BMSC-7 - mAdbID:108271	keep	keep_rule
+GSE24871	GSM611605	BM	7088	Fibroblast CRL-2352 - mAdbID:108272	exclude	arm_excl
+GSE24871	GSM611606	BM	7088	Fibroblast CRL-2429 - mAdbID:108273	exclude	arm_excl
+GSE24871	GSM611607	BM	7088	Fibroblast NuFF1 - mAdbID:108274	exclude	arm_excl
+GSE40033	GSM984046	BM	14550	Bone marrow mesenchymal stem cells from healthy subject,replicate 1	keep	keep_rule
+GSE40033	GSM984047	BM	14550	Bone marrow mesenchymal stem cells from healthy subject,replicate 2	keep	keep_rule
+GSE40033	GSM984048	BM	14550	Bone marrow mesenchymal stem cells from healthy subject,replicate 3	keep	keep_rule
+GSE40033	GSM984049	BM	14550	Bone marrow mesenchymal stem cells from healthy subject,replicate 4	keep	keep_rule
+GSE40033	GSM984050	BM	14550	Bone marrow mesenchymal stem cells from aborted fetus,replicate 1	exclude	arm_excl
+GSE40033	GSM984051	BM	14550	Bone marrow mesenchymal stem cells from aborted fetus,replicate 2	exclude	arm_excl
+GSE40033	GSM984052	BM	14550	Bone marrow mesenchymal stem cells from aborted fetus,replicate 3	exclude	arm_excl
+GSE40033	GSM984053	BM	14550	Bone marrow mesenchymal stem cells from psoriasis patient,replicate 1	exclude	arm_excl
+GSE40033	GSM984054	BM	14550	Bone marrow mesenchymal stem cells from psoriasis patient,replicate 2	exclude	arm_excl
+GSE40033	GSM984055	BM	14550	Bone marrow mesenchymal stem cells from psoriasis patient,replicate 3	exclude	arm_excl
+GSE40033	GSM984056	BM	14550	Bone marrow mesenchymal stem cells from psoriasis patient,replicate 4	exclude	arm_excl
+GSE40033	GSM984057	BM	14550	Bone marrow mesenchymal stem cells from psoriasis patient,replicate 5	exclude	arm_excl
+GSE40033	GSM984058	BM	14550	Bone marrow mesenchymal stem cells from psoriasis patient,replicate 6	exclude	arm_excl
+GSE40033	GSM984059	BM	14550	Bone marrow mesenchymal stem cells from psoriasis patient,replicate 7	exclude	arm_excl
+GSE63099	GSM1541217	BM	6884	Control donor 1(C5D1)	keep	keep_rule
+GSE63099	GSM1541218	BM	6884	Control donor 2(C5D2)	keep	keep_rule
+GSE63099	GSM1541219	BM	6884	Control donor 3(C5D3)	keep	keep_rule
+GSE63099	GSM1541220	BM	6884	Control donor 4(C5D4)	keep	keep_rule
+GSE63099	GSM1541221	BM	6884	Control donor 5(C5D5)	keep	keep_rule
+GSE63099	GSM1541222	BM	6884	Control donor 6(C5D6)	keep	keep_rule
+GSE63099	GSM1541223	BM	6884	Treated donor 1(T5D1)	exclude	arm_excl
+GSE63099	GSM1541224	BM	6884	Treated donor 2(T5D2)	exclude	arm_excl
+GSE63099	GSM1541225	BM	6884	Treated donor 3(T5D3)	exclude	arm_excl
+GSE63099	GSM1541226	BM	6884	Treated donor 4(T5D4)	exclude	arm_excl
+GSE63099	GSM1541227	BM	6884	Treated donor 5(T5D5)	exclude	arm_excl
+GSE63099	GSM1541228	BM	6884	Treated donor 6(T5D6)	exclude	arm_excl
+GSE107214	GSM2862825	UC	10558	N1_1	keep	keep_rule
+GSE107214	GSM2862826	UC	10558	N1_2	keep	keep_rule
+GSE107214	GSM2862827	UC	10558	N1_3	keep	keep_rule
+GSE107214	GSM2862828	UC	10558	N2_1	keep	keep_rule
+GSE107214	GSM2862829	UC	10558	N2_2	keep	keep_rule
+GSE107214	GSM2862830	UC	10558	N2_3	keep	keep_rule
+GSE107214	GSM2862831	UC	10558	N3_1	keep	keep_rule
+GSE107214	GSM2862832	UC	10558	N3_2	keep	keep_rule
+GSE107214	GSM2862833	UC	10558	N3_3	keep	keep_rule
+GSE107214	GSM2862834	UC	10558	N4_1	keep	keep_rule
+GSE107214	GSM2862835	UC	10558	N4_2	keep	keep_rule
+GSE107214	GSM2862836	UC	10558	N4_3	keep	keep_rule
+GSE107214	GSM2862837	UC	10558	N5_1	keep	keep_rule
+GSE107214	GSM2862838	UC	10558	N5_2	keep	keep_rule
+GSE107214	GSM2862839	UC	10558	N5_3	keep	keep_rule
+GSE107214	GSM2862840	UC	10558	N6_1	keep	keep_rule
+GSE107214	GSM2862841	UC	10558	N6_2	keep	keep_rule
+GSE107214	GSM2862842	UC	10558	N6_3	keep	keep_rule
+GSE107214	GSM2862843	UC	10558	N7_1	keep	keep_rule
+GSE107214	GSM2862844	UC	10558	N7_2	keep	keep_rule
+GSE107214	GSM2862845	UC	10558	N7_3	keep	keep_rule
+GSE107214	GSM2862846	UC	10558	O1_1	exclude	arm_excl
+GSE107214	GSM2862847	UC	10558	O1_2	exclude	arm_excl
+GSE107214	GSM2862848	UC	10558	O1_3	exclude	arm_excl
+GSE107214	GSM2862849	UC	10558	O2_1	exclude	arm_excl
+GSE107214	GSM2862850	UC	10558	O2_2	exclude	arm_excl
+GSE107214	GSM2862851	UC	10558	O2_3	exclude	arm_excl
+GSE107214	GSM2862852	UC	10558	O3_1	exclude	arm_excl
+GSE107214	GSM2862853	UC	10558	O3_2	exclude	arm_excl
+GSE107214	GSM2862854	UC	10558	O3_3	exclude	arm_excl
+GSE107214	GSM2862855	UC	10558	O4_1	exclude	arm_excl
+GSE107214	GSM2862856	UC	10558	O4_2	exclude	arm_excl
+GSE107214	GSM2862857	UC	10558	O4_3	exclude	arm_excl
+GSE107214	GSM2862858	UC	10558	O5_1	exclude	arm_excl
+GSE107214	GSM2862859	UC	10558	O5_2	exclude	arm_excl
+GSE107214	GSM2862860	UC	10558	O5_3	exclude	arm_excl
+GSE107214	GSM2862861	UC	10558	O6_1	exclude	arm_excl
+GSE107214	GSM2862862	UC	10558	O6_2	exclude	arm_excl
+GSE107214	GSM2862863	UC	10558	O6_3	exclude	arm_excl
+GSE107214	GSM2862864	UC	10558	O7_1	exclude	arm_excl
+GSE107214	GSM2862865	UC	10558	O7_2	exclude	arm_excl
+GSE107214	GSM2862866	UC	10558	O7_3	exclude	arm_excl
+GSE118808	GSM3348027	UC	20301	AM-MSC3	exclude	arm_excl
+GSE118808	GSM3348028	UC	20301	AM-MSC4	exclude	arm_excl
+GSE118808	GSM3348029	UC	20301	AM-MSC5	exclude	arm_excl
+GSE118808	GSM3348030	UC	20301	AM-MSC6	exclude	arm_excl
+GSE118808	GSM3348031	UC	20301	P-MSC3	exclude	arm_excl
+GSE118808	GSM3348032	UC	20301	P-MSC4	exclude	arm_excl
+GSE118808	GSM3348033	UC	20301	P-MSC5	exclude	arm_excl
+GSE118808	GSM3348034	UC	20301	P-MSC6	exclude	arm_excl
+GSE118808	GSM3348035	UC	20301	UC-MSC3	keep	keep_rule
+GSE118808	GSM3348036	UC	20301	UC-MSC4	keep	keep_rule
+GSE118808	GSM3348037	UC	20301	UC-MSC5	keep	keep_rule
+GSE118808	GSM3348038	UC	20301	UC-MSC6	keep	keep_rule
+GSE165811	GSM5050399	UC	16791	MSC1-blank1	exclude	arm_excl
+GSE165811	GSM5050400	UC	16791	MSC1-blank2	exclude	arm_excl
+GSE165811	GSM5050401	UC	16791	MSC1-blank3	exclude	arm_excl
+GSE165811	GSM5050402	UC	16791	MSC1-2IF-1	exclude	arm_excl
+GSE165811	GSM5050403	UC	16791	MSC1-2IF-2	exclude	arm_excl
+GSE165811	GSM5050404	UC	16791	MSC1-2IF-3	exclude	arm_excl
+GSE165811	GSM5050405	UC	16791	MSC2-blank-1	exclude	arm_excl
+GSE165811	GSM5050406	UC	16791	MSC2-blank-2	exclude	arm_excl
+GSE165811	GSM5050407	UC	16791	MSC2-blank-3	exclude	arm_excl
+GSE165811	GSM5050408	UC	16791	MSC2-2IF-1	exclude	arm_excl
+GSE165811	GSM5050409	UC	16791	MSC2-2IF-2	exclude	arm_excl
+GSE165811	GSM5050410	UC	16791	MSC2-2IF-3	exclude	arm_excl
+GSE165811	GSM5050411	UC	16791	MSC3-blank-1	exclude	arm_excl
+GSE165811	GSM5050412	UC	16791	MSC3-blank-2	exclude	arm_excl
+GSE165811	GSM5050413	UC	16791	MSC3-blank-3	exclude	arm_excl
+GSE165811	GSM5050414	UC	16791	MSC3-2IF-1	exclude	arm_excl
+GSE165811	GSM5050415	UC	16791	MSC3-2IF-2	exclude	arm_excl
+GSE165811	GSM5050416	UC	16791	MSC3-2IF-3	exclude	arm_excl
+GSE165811	GSM5050417	UC	16791	hUC.MSC1	keep	keep_rule
+GSE165811	GSM5050418	UC	16791	hUC.MSC10	keep	keep_rule
+GSE165811	GSM5050419	UC	16791	hUC.MSC11	keep	keep_rule
+GSE165811	GSM5050420	UC	16791	hUC.MSC12	keep	keep_rule
+GSE165811	GSM5050421	UC	16791	hUC.MSC13	keep	keep_rule
+GSE165811	GSM5050422	UC	16791	hUC.MSC14	keep	keep_rule
+GSE165811	GSM5050423	UC	16791	hUC.MSC15	keep	keep_rule
+GSE165811	GSM5050424	UC	16791	hUC.MSC16	keep	keep_rule
+GSE165811	GSM5050425	UC	16791	hUC.MSC17	keep	keep_rule
+GSE165811	GSM5050426	UC	16791	hUC.MSC18	keep	keep_rule
+GSE165811	GSM5050427	UC	16791	hUC.MSC19	keep	keep_rule
+GSE165811	GSM5050428	UC	16791	hUC.MSC2	keep	keep_rule
+GSE165811	GSM5050429	UC	16791	hUC.MSC20	keep	keep_rule
+GSE165811	GSM5050430	UC	16791	hUC.MSC21	keep	keep_rule
+GSE165811	GSM5050431	UC	16791	hUC.MSC22	keep	keep_rule
+GSE165811	GSM5050432	UC	16791	hUC.MSC23	keep	keep_rule
+GSE165811	GSM5050433	UC	16791	hUC.MSC24	keep	keep_rule
+GSE165811	GSM5050434	UC	16791	hUC.MSC25	keep	keep_rule
+GSE165811	GSM5050435	UC	16791	hUC.MSC26	keep	keep_rule
+GSE165811	GSM5050436	UC	16791	hUC.MSC27	keep	keep_rule
+GSE165811	GSM5050437	UC	16791	hUC.MSC28	keep	keep_rule
+GSE165811	GSM5050438	UC	16791	hUC.MSC29	keep	keep_rule
+GSE165811	GSM5050439	UC	16791	hUC.MSC3	keep	keep_rule
+GSE165811	GSM5050440	UC	16791	hUC.MSC30	keep	keep_rule
+GSE165811	GSM5050441	UC	16791	hUC.MSC31	keep	keep_rule
+GSE165811	GSM5050442	UC	16791	hUC.MSC32	keep	keep_rule
+GSE165811	GSM5050443	UC	16791	hUC.MSC4	keep	keep_rule
+GSE165811	GSM5050444	UC	16791	hUC.MSC5	keep	keep_rule
+GSE165811	GSM5050445	UC	16791	hUC.MSC6	keep	keep_rule
+GSE165811	GSM5050446	UC	16791	hUC.MSC7	keep	keep_rule
+GSE165811	GSM5050447	UC	16791	hUC.MSC8	keep	keep_rule
+GSE165811	GSM5050448	UC	16791	hUC.MSC9	keep	keep_rule
+GSE169533	GSM5208931	UC	24676	Human Wharton’s jelly-derived mesenchymal stem cells - Control 1	keep	keep_rule
+GSE169533	GSM5208932	UC	24676	Human Wharton’s jelly-derived mesenchymal stem cells - Control 2	keep	keep_rule
+GSE169533	GSM5208933	UC	24676	Human Wharton’s jelly-derived mesenchymal stem cells - 5 μg/mL of Diesel exhaust particle treated 1	exclude	arm_excl
+GSE169533	GSM5208934	UC	24676	Human Wharton’s jelly-derived mesenchymal stem cells - 5 μg/mL of Diesel exhaust particle treated 2	exclude	arm_excl
+GSE18134	GSM453297	UC	9193	Mesenchymal Stem Cells From Umbilical Cord and Umbilical Cord Blood - Donor 1, Replicate 1	exclude_f4	F4_exit
+GSE18134	GSM453298	UC	9193	Mesenchymal Stem Cells From Umbilical Cord and Umbilical Cord Blood - Donor 1,  Replicate 2	exclude_f4	F4_exit
+GSE18134	GSM453299	UC	9193	Mesenchymal Stem Cells From Umbilical Cord and Umbilical Cord Blood - Donor 2, Replicate 1	exclude_f4	F4_exit
+GSE18134	GSM453300	UC	9193	Mesenchymal Stem Cells From Umbilical Cord and Umbilical Cord Blood - Donor 2, Replicate 2	exclude_f4	F4_exit
+GSE18134	GSM453301	UC	9193	Mesenchymal Stem Cells From Umbilical Cord and Umbilical Cord Blood - Donor 3, Replicate 1	exclude_f4	F4_exit
+GSE18134	GSM453302	UC	9193	Mesenchymal Stem Cells From Umbilical Cord and Umbilical Cord Blood - Donor 3, Replicate 2	exclude_f4	F4_exit
+GSE18134	GSM453303	UC	9193	Mesenchymal Stem Cells From Umbilical Cord and Umbilical Cord Blood - Donor 4, Replicate 1	exclude_f4	F4_exit
+GSE18134	GSM453304	UC	9193	Mesenchymal Stem Cells From Umbilical Cord and Umbilical Cord Blood - Donor 4, Replicate 2	exclude_f4	F4_exit
+GSE215041	GSM6620314	UC	18573	salivary gland mesenchymal stem cells-1	exclude	arm_excl
+GSE215041	GSM6620315	UC	18573	salivary gland mesenchymal stem cells-2	exclude	arm_excl
+GSE215041	GSM6620316	UC	18573	salivary gland mesenchymal stem cells-3	exclude	arm_excl
+GSE215041	GSM6620317	UC	18573	wharton's jelly mesenchymal stem cells-1	keep	keep_rule
+GSE215041	GSM6620318	UC	18573	wharton's jelly mesenchymal stem cells-2	keep	keep_rule
+GSE215041	GSM6620319	UC	18573	wharton's jelly mesenchymal stem cells-3	keep	keep_rule
+GSE215041	GSM6620320	UC	18573	extracellular vesicle from sgMSC-1	exclude	arm_excl
+GSE215041	GSM6620321	UC	18573	extracellular vesicle from sgMSC-2	exclude	arm_excl
+GSE215041	GSM6620322	UC	18573	extracellular vesicle from sgMSC-3	exclude	arm_excl
+GSE215041	GSM6620323	UC	18573	extracellular vesicle from wjMSC-1	exclude	arm_excl
+GSE215041	GSM6620324	UC	18573	extracellular vesicle from wjMSC-2	exclude	arm_excl
+GSE215041	GSM6620325	UC	18573	extracellular vesicle from wjMSC-3	exclude	arm_excl
+GSE224190	GSM7017247	UC	20301	hUC-MSCs, untreated, ctrl 1	keep	keep_rule
+GSE224190	GSM7017248	UC	20301	hUC-MSCs, untreated, ctrl 2	keep	keep_rule
+GSE224190	GSM7017249	UC	20301	hUC-MSCs, untreated, ctrl 3	keep	keep_rule
+GSE224190	GSM7017250	UC	20301	hUC-MSCs, IL-1β, TNF-a and IFN-γ treated, primed 1	exclude	arm_excl
+GSE224190	GSM7017251	UC	20301	hUC-MSCs, IL-1β, TNF-a and IFN-γ treated, primed 2	exclude	arm_excl
+GSE224190	GSM7017252	UC	20301	hUC-MSCs, IL-1β, TNF-a and IFN-γ treated, primed 3	exclude	arm_excl
+GSE269586	GSM8322531	UC	18573;24676	MSCs from MCB, passage 0, donor 190, sequenced by RNAseq	keep	keep_rule
+GSE269586	GSM8322532	UC	18573;24676	MSCs from MCB, passage 0, donor 195, sequenced by RNAseq	keep	keep_rule
+GSE269586	GSM8322533	UC	18573;24676	MSCs from MCB, passage 0, donor 197, sequenced by RNAseq	keep	keep_rule
+GSE269586	GSM8322534	UC	18573;24676	MSCs from MCB, passage 0, donor 196, sequenced by RNAseq	keep	keep_rule
+GSE269586	GSM8322535	UC	18573;24676	MSCs from MCB, passage 0, donor 198, sequenced by RNAseq	keep	keep_rule
+GSE269586	GSM8322536	UC	18573;24676	MSCs from MCB, passage 0, donor 199, sequenced by RNAseq	keep	keep_rule
+GSE269586	GSM8322537	UC	18573;24676	MSCs from MCB, passage 0, donor 200, sequenced by RNAseq	keep	keep_rule
+GSE269586	GSM8322538	UC	18573;24676	MSCs from MCB, passage 0, donor 202, sequenced by RNAseq	keep	keep_rule
+GSE269586	GSM8322539	UC	18573;24676	MSCs from MCB, passage 0, donor 203, sequenced by RNAseq	keep	keep_rule
+GSE269586	GSM8322540	UC	18573;24676	MSCs from MCB, passage 0, donor 205, sequenced by RNAseq	keep	keep_rule
+GSE269586	GSM8322541	UC	18573;24676	MSCs from MCB, passage 0, donor 206, sequenced by RNAseq	keep	keep_rule
+GSE269586	GSM8322542	UC	18573;24676	MSCs from MCB, passage 2, donor 196, sequenced by RNAseq	exclude	arm_excl
+GSE269586	GSM8322543	UC	18573;24676	MSCs from MCB, passage 2, donor 198, sequenced by RNAseq	exclude	arm_excl
+GSE269586	GSM8322544	UC	18573;24676	MSCs from MCB, passage 2, donor 199, sequenced by RNAseq	exclude	arm_excl
+GSE269586	GSM8322545	UC	18573;24676	MSCs from MCB, passage 2, donor 200, sequenced by RNAseq	exclude	arm_excl
+GSE269586	GSM8322546	UC	18573;24676	MSCs from MCB, passage 2, donor 202, sequenced by RNAseq	exclude	arm_excl
+GSE269586	GSM8322547	UC	18573;24676	MSCs from MCB, passage 2, donor 206, sequenced by RNAseq	exclude	arm_excl
+GSE269586	GSM8322548	UC	18573;24676	MSCs from MCB, passage 3, donor 190, sequenced by RNAseq	exclude	arm_excl
+GSE269586	GSM8322549	UC	18573;24676	MSCs from MCB, passage 3, donor 195, sequenced by RNAseq	exclude	arm_excl
+GSE269586	GSM8322550	UC	18573;24676	MSCs from MCB, passage 3, donor 197, sequenced by RNAseq	exclude	arm_excl
+GSE269586	GSM8322551	UC	18573;24676	MSCs from MCB, passage 3, donor 199, sequenced by RNAseq	exclude	arm_excl
+GSE269586	GSM8322552	UC	18573;24676	MSCs from MCB, passage 3, donor 203, sequenced by RNAseq	exclude	arm_excl
+GSE269586	GSM8322553	UC	18573;24676	MSCs from MCB, passage 3, donor 205, sequenced by RNAseq	exclude	arm_excl
+GSE269586	GSM8322554	UC	18573;24676	MSCs from MCB, passage 0, donor 190, sequenced by MACE	exclude	arm_excl
+GSE269586	GSM8322555	UC	18573;24676	MSCs from MCB, passage 0, donor 195, sequenced by MACE	exclude	arm_excl
+GSE269586	GSM8322556	UC	18573;24676	MSCs from MCB, passage 0, donor 196, sequenced by MACE	exclude	arm_excl
+GSE269586	GSM8322557	UC	18573;24676	MSCs from MCB, passage 0, donor 197, sequenced by MACE	exclude	arm_excl
+GSE269586	GSM8322558	UC	18573;24676	MSCs from MCB, passage 0, donor 198, sequenced by MACE	exclude	arm_excl
+GSE269586	GSM8322559	UC	18573;24676	MSCs from MCB, passage 0, donor 199, sequenced by MACE	exclude	arm_excl
+GSE269586	GSM8322560	UC	18573;24676	MSCs from MCB, passage 0, donor 200, sequenced by MACE	exclude	arm_excl
+GSE269586	GSM8322561	UC	18573;24676	MSCs from MCB, passage 0, donor 202, sequenced by MACE	exclude	arm_excl
+GSE269586	GSM8322562	UC	18573;24676	MSCs from MCB, passage 0, donor 203, sequenced by MACE	exclude	arm_excl
+GSE269586	GSM8322563	UC	18573;24676	MSCs from MCB, passage 0, donor 205, sequenced by MACE	exclude	arm_excl
+GSE269586	GSM8322564	UC	18573;24676	MSCs from MCB, passage 0, donor 206, sequenced by MACE	exclude	arm_excl
+GSE269586	GSM8322565	UC	18573;24676	MSCs from MCB, passage 2, donor 196, sequenced by MACE	exclude	arm_excl
+GSE269586	GSM8322566	UC	18573;24676	MSCs from MCB, passage 2, donor 198, sequenced by MACE	exclude	arm_excl
+GSE269586	GSM8322567	UC	18573;24676	MSCs from MCB, passage 2, donor 199, sequenced by MACE	exclude	arm_excl
+GSE269586	GSM8322568	UC	18573;24676	MSCs from MCB, passage 2, donor 200, sequenced by MACE	exclude	arm_excl
+GSE269586	GSM8322569	UC	18573;24676	MSCs from MCB, passage 2, donor 202, sequenced by MACE	exclude	arm_excl
+GSE269586	GSM8322570	UC	18573;24676	MSCs from MCB, passage 2, donor 206, sequenced by MACE	exclude	arm_excl
+GSE269586	GSM8322571	UC	18573;24676	MSCs from MCB, passage 3, donor 190, sequenced by MACE	exclude	arm_excl
+GSE269586	GSM8322572	UC	18573;24676	MSCs from MCB, passage 3, donor 195, sequenced by MACE	exclude	arm_excl
+GSE269586	GSM8322573	UC	18573;24676	MSCs from MCB, passage 3, donor 197, sequenced by MACE	exclude	arm_excl
+GSE269586	GSM8322574	UC	18573;24676	MSCs from MCB, passage 3, donor 199, sequenced by MACE	exclude	arm_excl
+GSE269586	GSM8322575	UC	18573;24676	MSCs from MCB, passage 3, donor 203, sequenced by MACE	exclude	arm_excl
+GSE269586	GSM8322576	UC	18573;24676	MSCs from MCB, passage 3, donor 205, sequenced by MACE	exclude	arm_excl
+GSE62665	GSM1531178	UC	570	Human umbilical cord mesenchymal stem cells cultured in serum containing medium, biological rep 1	keep	keep_rule
+GSE62665	GSM1531179	UC	570	Human umbilical cord mesenchymal stem cells cultured in serum containing medium, biological rep 2	keep	keep_rule
+GSE62665	GSM1531180	UC	570	Human umbilical cord mesenchymal stem cells cultured in serum containing medium, biological rep 3	keep	keep_rule
+GSE62665	GSM1531181	UC	570	Human umbilical cord mesenchymal stem cells cultured in serum free medium, biological rep 1	exclude	arm_excl
+GSE62665	GSM1531182	UC	570	Human umbilical cord mesenchymal stem cells cultured in serum free medium, biological rep 2	exclude	arm_excl
+GSE62665	GSM1531183	UC	570	Human umbilical cord mesenchymal stem cells cultured in serum free medium, biological rep 3	exclude	arm_excl
+GSE72597	GSM1865817	UC	17586	Cord Tissue_Patient D	keep	keep_rule
+GSE72597	GSM1865818	UC	17586	Cord Tissue_Patient E	keep	keep_rule
+GSE72597	GSM1865819	UC	17586	Cord Tissue_Patient F	keep	keep_rule
+GSE72597	GSM1865820	UC	17586	Cord-placenta junction_Patient E	exclude	arm_excl
+GSE72597	GSM1865821	UC	17586	Cord-placenta junction_Patient G	exclude	arm_excl
+GSE72597	GSM1865822	UC	17586	Wharton's jelly_Patient E	keep	keep_rule
+GSE72597	GSM1865823	UC	17586	Wharton's jelly_Patient G	keep	keep_rule
+GSE76295	GSM1979343	UC	17586	Cord Tissue_Early Passage 1	keep	keep_rule
+GSE76295	GSM1979344	UC	17586	Cord Tissue_Early Passage 2	keep	keep_rule
+GSE76295	GSM1979345	UC	17586	Cord Tissue_Early Passage 3	keep	keep_rule
+GSE76295	GSM1979346	UC	17586	Cord-placenta junction_Early Passage 1	exclude	arm_excl
+GSE76295	GSM1979347	UC	17586	Cord-placenta junction_Early Passage 2	exclude	arm_excl
+GSE76295	GSM1979348	UC	17586	Wharton's jelly_Early Passage 1	keep	keep_rule
+GSE76295	GSM1979349	UC	17586	Wharton's jelly_Early Passage 2	keep	keep_rule
+GSE76295	GSM1979350	UC	17586	Cord-placenta junction_Late Passage 1	exclude	arm_excl
+GSE76295	GSM1979351	UC	17586	Cord-placenta junction_Late Passage 2	exclude	arm_excl
+GSE76295	GSM1979352	UC	17586	Cord-placenta junction_Late Passage 3	exclude	arm_excl
+GSE76295	GSM1979353	UC	17586	Cord Tissue_Late Passage 1	keep	keep_rule
+GSE76295	GSM1979354	UC	17586	Cord Tissue_Late Passage 2	keep	keep_rule
+GSE76295	GSM1979355	UC	17586	Cord Tissue_Late Passage 3	keep	keep_rule
+GSE76295	GSM1979356	UC	17586	Wharton's jelly_Late Passage 1	keep	keep_rule
+GSE76295	GSM1979357	UC	17586	Wharton's jelly_Late Passage 2	keep	keep_rule
+GSE76295	GSM1979358	UC	17586	Wharton's jelly_Late Passage 3	keep	keep_rule

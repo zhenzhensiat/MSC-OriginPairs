@@ -1,0 +1,61 @@
+gse	uses_en	n_samples_baseline	n_samples_application	n_samples_total	cohort_membership	verdict	note
+GSE107214	External validation cohort; Non-baseline arms (application scope)	21	21	42	C+ARM	C_UC	Cohort study; additional non-baseline arms analysed
+GSE108511	Discovery cohort	12	0	12	D	X_EXPLORATORY_PHASE	
+GSE111495	External validation cohort; Non-baseline arms (application scope)	11	11	22	C+ARM	C_BM	Cohort study; additional non-baseline arms analysed
+GSE118808	External validation cohort	4	0	4	C	C_UC	
+GSE12274	Discovery cohort	12	0	12	D	X_EXPLORATORY_PHASE	
+GSE122778	Discovery cohort	28	0	28	D	X_EXPLORATORY_PHASE	
+GSE123973	Other-tissue dataset (application scope only)	0	15	15	OOC	X_SOURCE_OOC	Application-scope-only dataset (reclassified out of screening exclusions)
+GSE128949	Discovery cohort	11	0	11	D	X_EXPLORATORY_PHASE	
+GSE129165	Discovery cohort	6	0	6	D	X_EXPLORATORY_PHASE	
+GSE129801	External validation cohort; Non-baseline arms (application scope)	7	15	22	C+ARM	C_BM	Cohort study; additional non-baseline arms analysed
+GSE139073	Passage-series study	0	33	33	P	X_EXPLORATORY_PHASE	
+GSE144605	External validation cohort; Non-baseline arms (application scope)	3	3	6	C+ARM	C_AD	Cohort study; additional non-baseline arms analysed
+GSE145728	Discovery cohort	6	0	6	D	X_EXPLORATORY_PHASE	
+GSE14828	External validation cohort; Non-baseline arms (application scope)	9	9	18	C+ARM	C_BM	Cohort study; additional non-baseline arms analysed
+GSE165811	External validation cohort; Non-baseline arms (application scope)	32	9	41	C+ARM	C_UC	Cohort study; additional non-baseline arms analysed
+GSE178514	Passage-series study	0	9	9	P	PASSAGE_SERIES	
+GSE18698	Discovery cohort	6	0	6	D	X_EXPLORATORY_PHASE	
+GSE189895	Discovery cohort	3	0	3	D	X_EXPLORATORY_PHASE	
+GSE194298	Discovery cohort	8	0	8	D	C_BM	
+GSE19773	Discovery cohort	4	0	4	D	X_EXPLORATORY_PHASE	
+GSE199826	Discovery cohort	27	0	27	D	X_EXPLORATORY_PHASE	
+GSE200086	External validation cohort; Non-baseline arms (application scope)	4	4	8	C+ARM	C_AD	Cohort study; additional non-baseline arms analysed
+GSE215041	External validation cohort	3	0	3	C	C_UC	
+GSE217709	External validation cohort; Non-baseline arms (application scope)	9	29	38	C+ARM	C_AD	Cohort study; additional non-baseline arms analysed
+GSE222263	External validation cohort; Non-baseline arms (application scope)	3	3	6	C+ARM	X_SMALL_N	Cohort study; additional non-baseline arms analysed
+GSE224190	External validation cohort; Non-baseline arms (application scope)	3	3	6	C+ARM	C_UC	Cohort study; additional non-baseline arms analysed
+GSE24871	External validation cohort	7	0	7	C	C_BM	
+GSE265844	External validation cohort; Non-baseline arms (application scope)	4	4	8	C+ARM	C_AD	Cohort study; additional non-baseline arms analysed
+GSE269586	External validation cohort	11	0	11	C	X_EXPLORATORY_PHASE	
+GSE269628	Other-tissue dataset (application scope only)	0	6	6	OOC	X_SOURCE_OOC	Application-scope-only dataset (reclassified out of screening exclusions)
+GSE272480	Other-tissue dataset (application scope only)	0	3	3	OOC	X_CELLLINE_IPSC	Application-scope-only dataset (reclassified out of screening exclusions)
+GSE275980	Passage-series study	0	9	9	P	X_EXPLORATORY_PHASE	
+GSE276163	Passage-series study	0	15	15	P	PASSAGE_SERIES	
+GSE283154	Discovery cohort	12	0	12	D	X_EXPLORATORY_PHASE	
+GSE28385	Other-tissue dataset (application scope only)	0	3	3	OOC	X_SOURCE_OOC	Application-scope-only dataset (reclassified out of screening exclusions)
+GSE291956	Passage-series study	0	24	24	P	X_EXPLORATORY_PHASE	
+GSE308101	External validation cohort; Non-baseline arms (application scope)	5	10	15	C+ARM	C_AD	Cohort study; additional non-baseline arms analysed
+GSE309666	Passage-series study	0	18	18	P	X_EXPLORATORY_PHASE	
+GSE310465	Other-tissue dataset (application scope only)	0	10	10	OOC	X_CELLLINE_IPSC	Application-scope-only dataset (reclassified out of screening exclusions)
+GSE34303	Passage-series study	0	57	57	P	PASSAGE_SERIES	
+GSE37065	Discovery cohort	3	0	3	D	X_EXPLORATORY_PHASE	
+GSE38947	Discovery cohort	6	0	6	D	X_EXPLORATORY_PHASE	
+GSE39035	Passage-series study	0	16	16	P	PASSAGE_SERIES	
+GSE40033	External validation cohort; Non-baseline arms (application scope)	4	10	14	C+ARM	C_BM	Cohort study; additional non-baseline arms analysed
+GSE46019	Passage-series study	0	6	6	P	PASSAGE_SERIES	
+GSE48022	Discovery cohort	7	0	7	D	X_EXPLORATORY_PHASE	
+GSE57151	Discovery cohort	9	0	9	D	X_EXPLORATORY_PHASE	
+GSE58474	Other-tissue dataset (application scope only)	0	12	12	OOC	X_SOURCE_OOC	Application-scope-only dataset (reclassified out of screening exclusions)
+GSE62505	Other-tissue dataset (application scope only)	0	9	9	OOC	X_SOURCE_OOC	Application-scope-only dataset (reclassified out of screening exclusions)
+GSE62665	External validation cohort; Non-baseline arms (application scope)	3	3	6	C+ARM	C_UC	Cohort study; additional non-baseline arms analysed
+GSE63099	External validation cohort; Non-baseline arms (application scope)	6	6	12	C+ARM	C_BM	Cohort study; additional non-baseline arms analysed
+GSE72332	Discovery cohort	6	0	6	D	X_EXPLORATORY_PHASE	
+GSE72597	External validation cohort	5	0	5	C	C_UC	
+GSE76295	External validation cohort	11	0	11	C	C_UC	
+GSE77272	Other-tissue dataset (application scope only)	0	4	4	OOC	X_SOURCE_OOC	Application-scope-only dataset (reclassified out of screening exclusions)
+GSE88865	Other-tissue dataset (application scope only)	0	3	3	OOC	X_SOURCE_OOC	Application-scope-only dataset (reclassified out of screening exclusions)
+GSE8954	Discovery cohort	8	0	8	D	X_EXPLORATORY_PHASE	
+GSE90149	External validation cohort	11	0	11	C	C_BM	
+GSE9520	Discovery cohort	6	0	6	D	X_EXPLORATORY_PHASE	
+GSE9593	Passage-series study	0	13	13	P	PASSAGE_SERIES	

@@ -1,0 +1,19 @@
+pmid	strength	disposition	reason
+42484960	strong	excluded	Cartilage differentiation genes/proteins (SOX9, COMP) across three tissues with comparable results, no directional claim (full-text verification)
+41555856	strong	included	Included: ENG, MCAM surface proteins BM>AD (flow cytometry, named)
+40756130	strong	excluded	No open full text (EPMC fullTextXML 500)
+41314988	strong	excluded	No open full text; abstract only 'ferroptosis gene differences', no names given
+41957779	strong	excluded	Excluded: MSC source is rat (full-text verification 'isolated from rats')
+37603218	strong	included	Included: 7 cytokine receptors expressed in BM / not expressed in AD (surface proteome)
+38952966	strong	excluded	Single-cell passage trajectory is the main content (UC P0-P5); no named-gene claim among the three sources identified
+38970611	strong	excluded	No open full text (not OA / not PMC)
+30746760	strong	excluded	No open full text (not OA); abstract has no named genes
+30702025	strong	excluded	No open full text (not OA); abstract has no named genes
+41934200	weak	excluded	Functional level (B cell differentiation support), no gene-level claim
+41096679	weak	excluded	miRNA level (miR-146a-5p etc.), not a protein-coding gene claim
+39849557	weak	excluded	Included: 47 UC vs BM proteomic DEPs (supplementary table MOESM1; direction verified via the main text 111/18)
+40357029	weak	included	Concentration/efficiency description (BMAC vs SVF), no named molecules
+42057118	weak	excluded	Review-style statement, no names given
+34069909	weak	included	Generic factor statement (pro-regenerative factors), no names given
+39734192	weak	excluded	Generic protein secretion (UMSC>ADSC), no names given
+37357314	weak	excluded	Included: CD55 (AD>BM;UC; RNAseq+qPCR+function)

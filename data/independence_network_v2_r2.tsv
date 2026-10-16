@@ -1,0 +1,61 @@
+gse	authors	n_authors	cluster_id	linked_gse
+GSE100748		0	G69	
+GSE100749		0	G70	
+GSE107214		0	G22	
+GSE108511	Dana,,Alhattab; Fatima,,Jamali; Abdalla,,Awidi; Jafar H; Ababneh NA; Alhattab D; Alatoom RM; Zalloum S; Salah B; Alhawari H	11	G08	
+GSE111495		0	G23	
+GSE118808		0	G24	
+GSE12274	Wagner W; Bork S; Horn P; Krunic D; Walenda T; Diehlmann A; Benes V; Blake J; Huber FX; Eckstein V	12	G02	GSE189895;GSE194298;GSE37065;GSE57151;GSE9520
+GSE122778	Vonick,,Sibut; Philippe,,Bourin; Cédric,,Ménard; Karin,,Tarte; Ménard C; Dulong J; Roulois D; Hébraud B; Verdière L; Pangault C	23	G09	
+GSE128949	Anna,,Burdzińska; Marta,,Koblowska; Zarychta-Wiśniewska W; Burdzińska A; Zielniok K; Koblowska M; Gala K; Pędzisz P; Iwanicka-Nowicka R; Fogtman A	14	G10	
+GSE129165	Danielle,M,Wiese; Lorena,R,Braid; Cindy,C,Ruttan; Catherine,A,Wood; Barry,N,Ford; Wiese DM; Braid LR.	7	G11	
+GSE129801		0	G25	
+GSE130393		0	G73	
+GSE139073	Guido,,Moll; Sven,,Geissler; Karsten,,Jürchott; Andrzejewska A; Catar R; Schoon J; Qazi TH; Sass FA; Jacobi D; Blankenstein A	26	G40	
+GSE144605		0	G26	
+GSE145728	Walter,D,Park; Timucin,,Taner; Taner T; Abrol N; Park WD; Hansen MJ; Gustafson MP; Lerman LO; van Wijnen AJ; Dietz AB	12	G12	
+GSE14828		0	G15	
+GSE165811		0	G27	
+GSE166327		0	G78	
+GSE169533		0	G79	
+GSE18134		0	G58	
+GSE18698	Bastiaan,J,Jansen; Christian,,Gilissen; Helene,,Roelofs; Aneta,,Schaap-Oziemlak; Joris,A,Veltman; Reinier,A,Raymakers; Joop,H,Jansen; Gesine,,Kögler; Carl,G,Figdor; Ruurd,,Torensma	22	G03	
+GSE189524		0	G82	
+GSE189895	Rodolphe,,Poupardin; Dirk,,Strunk	2	G02	GSE12274;GSE194298;GSE37065;GSE57151;GSE9520
+GSE194298		0	G02	GSE12274;GSE189895;GSE37065;GSE57151;GSE9520
+GSE19773	Andrew,H,Reiner; Bente,M,Jacobsen; Sørensen AL; Jacobsen BM; Reiner AH; Andersen IS; Collas P.	7	G04	
+GSE199826	Abantika,,Ganguly; Ganesh,,Swaminathan; Fernando,J,Marques; Sobha,,Regmi; Reza,,Yarani; Rosita,,Primevera; Shashank,,Chetty; Abel,,Bermudez; Ken,,Lau; Sharon,,Pitteri	21	G13	
+GSE200086		0	G28	
+GSE212368		0	G85	
+GSE215041		0	G29	
+GSE217709		0	G30	
+GSE224190		0	G32	
+GSE233634		0	G88	
+GSE23851		0	G59	
+GSE24871		0	G16	
+GSE265844		0	G33	
+GSE269586	Cañas-Arboleda M; Galindo CC; Cruz-Barrera M; Herrera K; Beltrán K; Rodríguez A; Rotter B; Camacho B; Salguero G.	9	G34	
+GSE275980	Hanyu,,Rao; Bi X; Ma B; Liu W; Gao WQ; Ye J; Rao H.	7	G42	
+GSE283154	Claudia,,Terraza-Aguirre; Rafael,,Contreras; Cecil,,Boyer; Claire,,Vinatier; Jerome,,Guicheux; Farida,,Djouad; Terraza-Aguirre C; Contreras-López R; Bernard C; Pradenas C	21	G14	
+GSE291956	Marina,R,Galera; Tu,,Hu; Lisa,,Harth; Mariana,,Bronze; Lea,,Munthe-Fog; Jesper,,Svalgaard; Anders,,Woetmann; Galera MR; Hu T; Harth L	14	G44	GSE309666
+GSE298520		0	G91	
+GSE300720		0	G92	
+GSE308101		0	G35	
+GSE309666	Ellen,,Johansen; Cecilie,,Hoeeg; Rebekka,,Søndergaard; Lisbeth,,Højgaard; Laura,,Lethager; Stine,,Bangsgaard; Jens,,Kastrup; Tu,,Hu; Thomas,,Litman; Morten,,Nørgaard	20	G44	GSE291956
+GSE37065	Shao K; Koch C; Gupta MK; Lin Q; Lenz M; Laufs S; Denecke B; Schmidt M; Linke M; Hennies HC	15	G02	GSE12274;GSE189895;GSE194298;GSE57151;GSE9520
+GSE38947	Moon,N,Lim; N,H,Hamidah	2	G05	
+GSE40033		0	G17	
+GSE48022	Jui-Yu,,Hsieh; Shing-Jyh,,Chang; Hsei-Wei,,Wang; Ko-Hsun,,Liao; I-Hui,,Lee; Wei-Shiang,,Lin; Chun-Hsien,,Wu; Wen-Yu,,Lin; Shu-Meng,,Cheng; Hsieh JY	18	G06	
+GSE51869	Martins JP; Santos JM; de Almeida JM; Filipe MA; de Almeida MV; Almeida SC; Água-Doce A; Varela A; Gilljam M; Stellan B	18	G55	
+GSE57151	Andreas,,Reinisch; Nathalie,,Etchart; Nicole,A,Hofmann; Daniel,,Thomas; Margareta,,Fruehwirth; Subarna,,Sinha; Udo,F,Hartwig; Christine,,Beham-Schmid; Slave,,Trajanoski; Qiong,,Lin	39	G02	GSE12274;GSE189895;GSE194298;GSE37065;GSE9520
+GSE62665		0	G18	
+GSE63099		0	G19	
+GSE68374		0	G64	
+GSE72332	Beatriz,,Roson-Burgo; Fermin,,Sanchez-Guijo; Consuelo,,Del Cañizo; Javier,,De Las Rivas; Roson-Burgo B; Sanchez-Guijo F; Del Cañizo C; De Las Rivas J.	8	G07	
+GSE72597		0	G20	
+GSE76295		0	G20	
+GSE78235		0	G66	
+GSE8954	Nathalie,,Saulnier; Maria-Ausiliatrice,,Puglisi; Wanda,,Lattanzi; Giovanni,,Pani; Maria-Luisa,,Novi; Manuela,,Giachelia; Sergio,,Alfieri; Fabrizio,,Michetti; Giovanni,,Gasbarrini; Antonio,,Gasbarrini	21	G01	
+GSE90149		0	G21	
+GSE9451	Kubo H; Shimizu M; Taya Y; Kawamoto T; Michida M; Kaneko E; Igarashi A; Nishimura M; Segoshi K; Shimazu Y	13	G54	
+GSE9520	Larson BL; Ylöstalo J; Prockop DJ.	3	G02	GSE12274;GSE189895;GSE194298;GSE37065;GSE57151

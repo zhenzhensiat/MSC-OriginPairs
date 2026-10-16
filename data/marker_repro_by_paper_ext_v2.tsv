@@ -1,0 +1,6 @@
+pmid	n_rows	n_testable	reproduced_claimed	reproduced_opposite	not_reproduced
+37357314	2	2	1	0	1
+37603218	7	7	0	0	7
+39849557	47	46	0	9	37
+41555856	2	2	1	0	1
+ALL_EXT	58	57	2	9	46

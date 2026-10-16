@@ -1,0 +1,35 @@
+gse	verdict	n_geo	arm_evidence	evidence_source	donor_hint	n_donor_max	d_cluster
+GSE100748	C_BM	NA				NA	
+GSE100749	C_BM	NA				NA	
+GSE107214	C_UC	NA	control (medium|condition|group);non-obese;standard (culture|condition)	fulltext	30; n = 7) donors; four or more obese donors; 2) days in the obese donors; 7 for	7	
+GSE111495	C_BM	NA	healthy (donor|control|subject|volunteer);fbs.*control|control.*fbs	fulltext	5 healthy subjects; 18 has been subject; 3 healthy subjects; 5 healthy donors; 3	NA	
+GSE118808	C_UC	NA		fulltext	three independent donors; three individual donors; four different donors	4	
+GSE129801	C_BM	NA				NA	
+GSE130393	C_AD	NA	normoxi;control (medium|condition|group);standard (culture|condition)	fulltext	15 female donors	NA	
+GSE144605	C_AD	NA	control (medium|condition|group);normal (glucose|donor|adult);fbs.*control|control.*fbs	fulltext	two different donor; tential donor; three different donors; 7 different donors; 	10	
+GSE14828	C_BM	NA		abstract		NA	
+GSE165811	C_UC	NA	control (medium|condition|group);fbs.*control|control.*fbs;without (treatment|stimul|fbs)	fulltext	32 donors; 2"><p><bold>subject; 2"><title>donor; tential donor	10	
+GSE169533	C_UC	NA				NA	
+GSE18134	C_UC	NA	fbs.*control|control.*fbs	fulltext	90% confluence) were subject; 2</sup> within same donor	NA	
+GSE189524	C_BM	NA				NA	
+GSE200086	C_AD	NA	healthy (donor|control|subject|volunteer);control (medium|condition|group);fbs.*control|control.*fbs	fulltext	2"><p><bold>subject; 4 healthy subjects; 4 donors; four donors	4	
+GSE212368	C_AD	NA	normoxi;control (medium|condition|group);fbs.*control|control.*fbs	fulltext	tency, and donor; tent msc(at) donors; 1" colspan="1">donor; 5 human msc(at) don	10	
+GSE215041	C_UC	NA		abstract		NA	
+GSE217709	C_AD	NA	standard (culture|condition)	fulltext	29 dkd subjects	NA	
+GSE224190	C_UC	NA	untreated;unstimulated;fbs.*control|control.*fbs	fulltext	90% of patients; 0010"><title>subject; 90% of iua patients; 7 severe iua patient	NA	
+GSE233634	C_UC	NA		fulltext	42">the cells were subject; 12 and bior3 were subject; 405 degs were subject	NA	
+GSE23851	C_AD	NA		abstract		NA	
+GSE24871	C_BM	NA	healthy (donor|control|subject|volunteer)	abstract	seven healthy subjects; three healthy subjects	7	
+GSE265844	C_AD	NA	control (medium|condition|group)	fulltext	22">the number of patients; ten used in patients; 70% of patients; 8</sup>) into	10	
+GSE269586	X_EXPLORATORY_PHASE	NA		abstract		NA	
+GSE298520	C_UC	NA	normoxi;control (medium|condition|group);wild.?type	fulltext		NA	
+GSE300720	C_AD	NA	unstimulated;control (medium|condition|group);fbs.*control|control.*fbs	fulltext	6</sup> cells and subject	NA	
+GSE308101	C_AD	NA	untreated	fulltext	2"><p><bold>subject; 40, ascsub40), and subject; 2nd panels) or from donors; 48%	5	
+GSE40033	C_BM	NA				NA	
+GSE62665	C_UC	NA		fulltext	five different donors; three different donors	5	
+GSE63099	C_BM	NA				NA	
+GSE68374	C_BM	NA				NA	
+GSE72597	C_UC	NA		abstract		NA	
+GSE76295	C_UC	NA		abstract		NA	
+GSE78235	C_BM	NA		abstract		NA	
+GSE90149	C_BM	NA		abstract		NA	

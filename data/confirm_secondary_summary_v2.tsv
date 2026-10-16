@@ -1,0 +1,3 @@
+model	n_samples	n_studies	ba	study_acc_median	study_acc_min	majority_acc	donor_ba	abstain_rate	recall_AD	precision_AD	recall_BM	precision_BM	recall_UC	precision_UC	n_studies_not_evaluable	descriptive_only
+glmnet_all_conservative	176	22	0.775292091421124	1	0	0.772727272727273	0.793253968253968	0.170454545454545	0.571428571428571	1	0.872727272727273	1	0.881720430107527	1	5	TRUE
+glmnet_evaluable_only	146	17	1	1	1	1	1	0	1	1	1	1	1	1	5	TRUE

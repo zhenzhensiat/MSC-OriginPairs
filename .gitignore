@@ -1,0 +1,9 @@
+# data that are not distributed in this repository (obtain from GEO / the archived release)
+data/studies/
+data/raw/
+data_raw/
+logs/
+docs/
+.venv/
+__pycache__/
+*.pyc

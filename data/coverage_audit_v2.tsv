@@ -1,0 +1,26 @@
+gse	n_genes_raw	n_genes_mapped	annot_rate	n_samples	n_include	genome_wide	scale	notes
+GSE199826	24802	23720	0.9572	27	27	TRUE	log2TPM	The exploratory phase stores a non-integer matrix (integer rate <0.99), log2(x+1) labeled log2TPM
+GSE57151	27283	27283	0.5938	9	9	TRUE	array	; M1 probe reconstruction 2026-10-11; M1 probe reconstruction 2026-10-11
+GSE12274	22189	20212	0.8252	12	12	TRUE	array	The exploratory phase stores linear intensity, log2(x+1); M1 probe reconstruction 2026-10-11; M1 probe reconstruction 2026-10-11
+GSE108511	30906	23860	0.7741	12	12	TRUE	array	
+GSE283154	28281	27689	0.9794	12	12	TRUE	logCPM	The exploratory phase stores counts, this step cpm(log)
+GSE122778	18124	16935	0.9353	28	28	TRUE	array	
+GSE145728	14679	12887	0.8792	6	6	TRUE	logCPM	author_normCPM (no raw counts, voom unavailable)
+GSE8954	8529	8084	0.9478	8	8	FALSE	array	The exploratory phase stores linear intensity, log2(x+1)
+GSE128949	25137	23012	0.9177	11	11	TRUE	array	
+GSE19773	42620	18026	0.6326	4	4	TRUE	array	The exploratory phase stores linear intensity, log2(x+1); M1 probe reconstruction 2026-10-11; M1 probe reconstruction 2026-10-11
+GSE48022	22189	20212	0.8252	7	7	TRUE	array	; M1 probe reconstruction 2026-10-11; M1 probe reconstruction 2026-10-11
+GSE18698	17259	17259	1	6	6	TRUE	array	
+GSE38947	13404	12630	0.9428	6	6	FALSE	array	
+GSE129165	13299	12391	0.932	6	6	TRUE	array	
+GSE72332	25298	25298	1	6	6	TRUE	array	
+GSE291956	19415	19412	0.9998	24	24	TRUE	logCPM	The exploratory phase stores counts, this step cpm(log)
+GSE275980	16038	16020	0.9989	9	9	TRUE	logCPM	The exploratory phase stores counts, this step cpm(log)
+GSE51869	22189	19551	0.8822	11	11	TRUE	array	
+GSE9451	22189	19551	0.8822	3	3	TRUE	array	The exploratory phase stores linear intensity, log2(x+1)
+GSE139073	NA	22121	NA	33	33	TRUE	logCPM	11b original construction
+GSE309666	NA	40760	NA	18	18	TRUE	logCPM	11b original construction
+GSE37065	33297	19584	0.6666	3	3	TRUE	array	v2b construction
+GSE9520	54675	20212	0.8252	6	6	TRUE	array	v2b construction
+GSE189895	19287	19070	0.991	3	3	TRUE	logCPM	v2b construction
+GSE194298	58233	36031	0.6202	8	8	TRUE	log2TPM	v2b construction

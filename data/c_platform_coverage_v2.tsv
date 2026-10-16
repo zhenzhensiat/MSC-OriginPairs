@@ -1,0 +1,23 @@
+platform	type	n_genes_platform	n_overlap	pct_of_D_intersection	note
+GPL32619	array	58	38	0.0054	
+GPL9193	array	7158	3731	0.5272	
+GPL18405	array	16823	6826	0.9645	
+GPL6884	array	18964	6964	0.984	
+GPL1708	array	18383	6972	0.9852	
+GPL10558	array	20468	7029	0.9932	
+GPL16297	array	18256	7045	0.9955	
+GPL14550	array	19774	7065	0.9983	
+GPL7088	array	18546	7067	0.9986	
+GPL28102	array	30044	7074	0.9996	
+GPL570	array	20212	7077	1	
+GPL571	array	12871	7077	1	
+GPL5188	array	29091	7077	1	
+GPL16686	array	28376	7077	1	
+GPL17586	array	24972	7077	1	
+GPL11154	sequencing	NA	7077	1	
+GPL16791	sequencing	NA	7077	1	
+GPL18573	sequencing	NA	7077	1	
+GPL20301	sequencing	NA	7077	1	
+GPL24014	sequencing	NA	7077	1	
+GPL24676	sequencing	NA	7077	1	
+ALL_C_after_rule	summary	NA	6643	0.9387	Rule simulation: after excluding [GPL32619,GPL9193], intersection = 6643 genes (>=4000)

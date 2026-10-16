@@ -1,0 +1,5 @@
+gse	platform	annot_src_sha	n_probes_total	n_probes_annot	annot_hit	n_genes_old	n_genes_new	n_shared	n_only_old	n_only_new	corr_pearson_median	corr_pearson_q05	corr_pearson_min	corr_spearman_median	n_corr_lt_0.95	old_vs_current_matched	samples
+GSE12274	GPL570	d7cd44352127b1e3	54675	45118	0.8252	19551	20212	19551	0	661	1	1	-0.70957	1	153	FALSE	12
+GSE48022	GPL570	d7cd44352127b1e3	54675	45118	0.8252	19551	20212	19551	0	661	1	1	-0.89068	1	139	FALSE	7
+GSE57151	GPL16686	bioc:8.8.0	51817	30771	0.5938	27283	27283	27283	0	0	1	1	-0.55935	1	27	FALSE	9
+GSE19773	GPL7363	2e5a71b98d803c9b	48701	30807	0.6326	16925	18026	16915	10	1111	1	1	-0.99355	1	209	FALSE	4

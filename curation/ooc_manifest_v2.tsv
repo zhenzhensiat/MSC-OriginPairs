@@ -1,0 +1,66 @@
+gse	cluster_id	gsm	tissue	donor	passage	medium	include	note	sample_title
+GSE88865	GSE88865	GSM2350400	placenta	1	NA	NA	TRUE	Untreated PDMSC (adipogenic/osteogenic differentiation arms and the MSC-like arm excluded)	Human PDMSCs, biological rep.1
+GSE88865	GSE88865	GSM2350401	placenta	2	NA	NA	TRUE	Untreated PDMSC (adipogenic/osteogenic differentiation arms and the MSC-like arm excluded)	Human PDMSCs, biological rep.2
+GSE88865	GSE88865	GSM2350402	placenta	3	NA	NA	TRUE	Untreated PDMSC (adipogenic/osteogenic differentiation arms and the MSC-like arm excluded)	Human PDMSCs, biological rep.3
+GSE28385	GSE28385	GSM701627	amnion	1	NA	NA	TRUE	Uninduced (endothelial-induction arm excluded)	hAMSC_non-induced_2 weeks_rep1
+GSE28385	GSE28385	GSM701628	amnion	2	NA	NA	TRUE	Uninduced (endothelial-induction arm excluded)	hAMSC_non-induced_2 weeks_rep2
+GSE28385	GSE28385	GSM701629	amnion	3	NA	NA	TRUE	Uninduced (endothelial-induction arm excluded)	hAMSC_non-induced_2 weeks_rep3
+GSE123973	GSE123973	GSM3517962	dental_pulp	US-1622997	NA	NA	TRUE	Dental pulp MSC, all samples (US IDs aggregated)	US-1622997: 29-1
+GSE123973	GSE123973	GSM3517963	dental_pulp	US-1623022	NA	NA	TRUE	Dental pulp MSC, all samples (US IDs aggregated)	US-1623022: 43-1
+GSE123973	GSE123973	GSM3517964	dental_pulp	US-1623003	NA	NA	TRUE	Dental pulp MSC, all samples (US IDs aggregated)	US-1623003: 43-2
+GSE123973	GSE123973	GSM3517965	dental_pulp	US-1622941	NA	NA	TRUE	Dental pulp MSC, all samples (US IDs aggregated)	US-1622941: 44-1
+GSE123973	GSE123973	GSM3517966	dental_pulp	US-1622946	NA	NA	TRUE	Dental pulp MSC, all samples (US IDs aggregated)	US-1622946: 45-1
+GSE123973	GSE123973	GSM3517967	dental_pulp	US-1622950	NA	NA	TRUE	Dental pulp MSC, all samples (US IDs aggregated)	US-1622950: 45-2
+GSE123973	GSE123973	GSM3517968	dental_pulp	US-1622965	NA	NA	TRUE	Dental pulp MSC, all samples (US IDs aggregated)	US-1622965: 45-3
+GSE123973	GSE123973	GSM3517969	dental_pulp	US-1622962	NA	NA	TRUE	Dental pulp MSC, all samples (US IDs aggregated)	US-1622962: LONZA DPSC-1
+GSE123973	GSE123973	GSM3517970	dental_pulp	US-1622978	NA	NA	TRUE	Dental pulp MSC, all samples (US IDs aggregated)	US-1622978: LONZA DPSC-2
+GSE123973	GSE123973	GSM3517971	dental_pulp	US-1622963	NA	NA	TRUE	Dental pulp MSC, all samples (US IDs aggregated)	US-1622963: LONZA DPSC-3
+GSE123973	GSE123973	GSM3517972	dental_pulp	US-1622967	NA	NA	TRUE	Dental pulp MSC, all samples (US IDs aggregated)	US-1622967: LONZA MSC-1
+GSE123973	GSE123973	GSM3517973	dental_pulp	US-1623025	NA	NA	TRUE	Dental pulp MSC, all samples (US IDs aggregated)	US-1623025: LONZA MSC-2
+GSE123973	GSE123973	GSM3517974	dental_pulp	US-1623017	NA	NA	TRUE	Dental pulp MSC, all samples (US IDs aggregated)	US-1623017: LONZA MSC-3
+GSE123973	GSE123973	GSM3517975	dental_pulp	US-1622969	NA	NA	TRUE	Dental pulp MSC, all samples (US IDs aggregated)	US-1622969: 43 4D mTeSR - 1
+GSE123973	GSE123973	GSM3517976	dental_pulp	US-1622982	NA	NA	TRUE	Dental pulp MSC, all samples (US IDs aggregated)	US-1622982: 43 4D mTeSR - 3
+GSE58474	GSE58474	GSM1412221	bone	01	NA	NA	TRUE	Iliac crest / mandible MSC (6 donors x 2 sites)	iliac 01 SBS
+GSE58474	GSE58474	GSM1412222	bone	02	NA	NA	TRUE	Iliac crest / mandible MSC (6 donors x 2 sites)	iliac 02 HKT
+GSE58474	GSE58474	GSM1412223	bone	03	NA	NA	TRUE	Iliac crest / mandible MSC (6 donors x 2 sites)	iliac 03 NBC
+GSE58474	GSE58474	GSM1412224	bone	04	NA	NA	TRUE	Iliac crest / mandible MSC (6 donors x 2 sites)	iliac 04 HJH
+GSE58474	GSE58474	GSM1412225	bone	05	NA	NA	TRUE	Iliac crest / mandible MSC (6 donors x 2 sites)	iliac 05 JPS
+GSE58474	GSE58474	GSM1412226	bone	06	NA	NA	TRUE	Iliac crest / mandible MSC (6 donors x 2 sites)	iliac 06 PJH
+GSE58474	GSE58474	GSM1412227	bone	01	NA	NA	TRUE	Iliac crest / mandible MSC (6 donors x 2 sites)	mandible 01 SBS
+GSE58474	GSE58474	GSM1412228	bone	02	NA	NA	TRUE	Iliac crest / mandible MSC (6 donors x 2 sites)	mandible 02 HKT
+GSE58474	GSE58474	GSM1412229	bone	03	NA	NA	TRUE	Iliac crest / mandible MSC (6 donors x 2 sites)	mandible 03 NBC
+GSE58474	GSE58474	GSM1412230	bone	04	NA	NA	TRUE	Iliac crest / mandible MSC (6 donors x 2 sites)	mandible 04 HJH
+GSE58474	GSE58474	GSM1412231	bone	05	NA	NA	TRUE	Iliac crest / mandible MSC (6 donors x 2 sites)	mandible 05 JPS
+GSE58474	GSE58474	GSM1412232	bone	06	NA	NA	TRUE	Iliac crest / mandible MSC (6 donors x 2 sites)	mandible 06 PJH
+GSE62505	GSE62505	GSM1527962	brain	ABPMC-hip1	NA	NA	TRUE	Brain perivascular (Perivascular, 6) + brain-derived mesenchymal (Mesenchymal, 3); NSC/neural progenitors excluded	ABPMC-hip rep 1
+GSE62505	GSE62505	GSM1527963	brain	ABPMC-hip2	NA	NA	TRUE	Brain perivascular (Perivascular, 6) + brain-derived mesenchymal (Mesenchymal, 3); NSC/neural progenitors excluded	ABPMC-hip rep 2
+GSE62505	GSE62505	GSM1527964	brain	ABPMC-hip3	NA	NA	TRUE	Brain perivascular (Perivascular, 6) + brain-derived mesenchymal (Mesenchymal, 3); NSC/neural progenitors excluded	ABPMC-hip rep 3
+GSE62505	GSE62505	GSM1527965	brain	ABPMC-wm1	NA	NA	TRUE	Brain perivascular (Perivascular, 6) + brain-derived mesenchymal (Mesenchymal, 3); NSC/neural progenitors excluded	ABPMC-wm rep 1
+GSE62505	GSE62505	GSM1527966	brain	ABPMC-wm2	NA	NA	TRUE	Brain perivascular (Perivascular, 6) + brain-derived mesenchymal (Mesenchymal, 3); NSC/neural progenitors excluded	ABPMC-wm rep 2
+GSE62505	GSE62505	GSM1527967	brain	ABPMC-wm3	NA	NA	TRUE	Brain perivascular (Perivascular, 6) + brain-derived mesenchymal (Mesenchymal, 3); NSC/neural progenitors excluded	ABPMC-wm rep 3
+GSE62505	GSE62505	GSM1527968	brain	MSC1	NA	NA	TRUE	Brain perivascular (Perivascular, 6) + brain-derived mesenchymal (Mesenchymal, 3); NSC/neural progenitors excluded	MSC rep 1
+GSE62505	GSE62505	GSM1527969	brain	MSC2	NA	NA	TRUE	Brain perivascular (Perivascular, 6) + brain-derived mesenchymal (Mesenchymal, 3); NSC/neural progenitors excluded	MSC rep 2
+GSE62505	GSE62505	GSM1527970	brain	MSC3	NA	NA	TRUE	Brain perivascular (Perivascular, 6) + brain-derived mesenchymal (Mesenchymal, 3); NSC/neural progenitors excluded	MSC rep 3
+GSE269628	GSE269628	GSM8323165	periodontal	501	NA	NA	TRUE	Gingiva MSC untreated control (3 donors x 2 time points)	501_Control_24h
+GSE269628	GSE269628	GSM8323168	periodontal	504	NA	NA	TRUE	Gingiva MSC untreated control (3 donors x 2 time points)	504_Control_72h
+GSE269628	GSE269628	GSM8323171	periodontal	513	NA	NA	TRUE	Gingiva MSC untreated control (3 donors x 2 time points)	513_Control_24h
+GSE269628	GSE269628	GSM8323174	periodontal	516	NA	NA	TRUE	Gingiva MSC untreated control (3 donors x 2 time points)	516_Control_72h
+GSE269628	GSE269628	GSM8323177	periodontal	519	NA	NA	TRUE	Gingiva MSC untreated control (3 donors x 2 time points)	519_Control_24h
+GSE269628	GSE269628	GSM8323180	periodontal	522	NA	NA	TRUE	Gingiva MSC untreated control (3 donors x 2 time points)	522_Control_72h
+GSE77272	GSE77272	GSM2047172	tonsil	1	NA	NA	TRUE	Tonsil MSC (group T, 4; adipose A / bone-marrow B arms excluded)	T1
+GSE77272	GSE77272	GSM2047173	tonsil	2	NA	NA	TRUE	Tonsil MSC (group T, 4; adipose A / bone-marrow B arms excluded)	T2
+GSE77272	GSE77272	GSM2047174	tonsil	3	NA	NA	TRUE	Tonsil MSC (group T, 4; adipose A / bone-marrow B arms excluded)	T3
+GSE77272	GSE77272	GSM2047175	tonsil	4	NA	NA	TRUE	Tonsil MSC (group T, 4; adipose A / bone-marrow B arms excluded)	T4
+GSE272480	GSE272480	GSM8403298	ipsc_derived	6	NA	NA	TRUE	iPSC-derived MSC (CT-iMSC x2 + NC-iMSC x1)	CT-iMSC-6
+GSE272480	GSE272480	GSM8403299	ipsc_derived	7	NA	NA	TRUE	iPSC-derived MSC (CT-iMSC x2 + NC-iMSC x1)	CT-iMSC-7
+GSE272480	GSE272480	GSM8403300	ipsc_derived	7	NA	NA	TRUE	iPSC-derived MSC (CT-iMSC x2 + NC-iMSC x1)	NC-iMSC-7
+GSE310465	GSE310465	GSM9301773	ipsc_derived	1	NA	NA	TRUE	5 embryonic-lineage iPSC-MSC x2 (BM/AD/DP/FAP and primary cells excluded)	Cranial neural crest-derived mesenchymal stem cells, 1
+GSE310465	GSE310465	GSM9301774	ipsc_derived	2	NA	NA	TRUE	5 embryonic-lineage iPSC-MSC x2 (BM/AD/DP/FAP and primary cells excluded)	Cranial neural crest-derived mesenchymal stem cells, 2
+GSE310465	GSE310465	GSM9301779	ipsc_derived	1	NA	NA	TRUE	5 embryonic-lineage iPSC-MSC x2 (BM/AD/DP/FAP and primary cells excluded)	Trunk neural crest-derived mesenchymal stem cells, 1
+GSE310465	GSE310465	GSM9301780	ipsc_derived	2	NA	NA	TRUE	5 embryonic-lineage iPSC-MSC x2 (BM/AD/DP/FAP and primary cells excluded)	Trunk neural crest-derived mesenchymal stem cells, 2
+GSE310465	GSE310465	GSM9301785	ipsc_derived	1	NA	NA	TRUE	5 embryonic-lineage iPSC-MSC x2 (BM/AD/DP/FAP and primary cells excluded)	Somite-derived mesenchymal stem cells, 1
+GSE310465	GSE310465	GSM9301786	ipsc_derived	2	NA	NA	TRUE	5 embryonic-lineage iPSC-MSC x2 (BM/AD/DP/FAP and primary cells excluded)	Somite-derived mesenchymal stem cells, 2
+GSE310465	GSE310465	GSM9301791	ipsc_derived	1	NA	NA	TRUE	5 embryonic-lineage iPSC-MSC x2 (BM/AD/DP/FAP and primary cells excluded)	Lateral plate mesoderm-derived mesenchymal stem cells, 1
+GSE310465	GSE310465	GSM9301792	ipsc_derived	2	NA	NA	TRUE	5 embryonic-lineage iPSC-MSC x2 (BM/AD/DP/FAP and primary cells excluded)	Lateral plate mesoderm-derived mesenchymal stem cells, 2
+GSE310465	GSE310465	GSM9301797	ipsc_derived	1	NA	NA	TRUE	5 embryonic-lineage iPSC-MSC x2 (BM/AD/DP/FAP and primary cells excluded)	Limb mesenchyme-derived mesenchymal stem cells, 1
+GSE310465	GSE310465	GSM9301798	ipsc_derived	2	NA	NA	TRUE	5 embryonic-lineage iPSC-MSC x2 (BM/AD/DP/FAP and primary cells excluded)	Limb mesenchyme-derived mesenchymal stem cells, 2

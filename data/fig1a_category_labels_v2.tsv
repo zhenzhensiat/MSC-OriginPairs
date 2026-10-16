@@ -1,0 +1,38 @@
+scope	code	label_en
+v2_census_1089	C_AD	Multi-source candidate dataset
+v2_census_1089	C_BM	Multi-source candidate dataset
+v2_census_1089	C_UC	Multi-source candidate dataset
+v2_census_1089	MULTI_NEW	Multi-source candidate dataset
+v2_census_1089	ORTHO_SCRNA	Single-cell dataset (exploratory)
+v2_census_1089	PASSAGE_SERIES	Passage-series dataset (stability)
+v2_census_1089	UNCLEAR	Insufficient metadata (recoded)
+v2_census_1089	X_CELLLINE_IPSC	Cell line or iPSC-derived
+v2_census_1089	X_DUP	Duplicate or super-series
+v2_census_1089	X_FETAL_EMBRYO	Fetal or embryonic tissue
+v2_census_1089	X_NO_MATRIX	Expression matrix unavailable
+v2_census_1089	X_NOT_CULTURE	Not culture-expanded
+v2_census_1089	X_NOT_EXPR	No expression profiling
+v2_census_1089	X_NOT_HUMAN	Non-human
+v2_census_1089	X_NOT_MSC	Not MSC
+v2_census_1089	X_SMALL_N	Too few donors
+v2_census_1089	X_SOURCE_OOC	Tissue outside BM/AD/UC
+v2_census_1089	X_TREAT_NO_CTRL	Treated, no untreated control
+v2_census_1089	X_EXPLORATORY_PHASE	Used in prior analyses (v1)
+v1_inherited	excluded_cell_lines	Cell lines
+v1_inherited	excluded_coculture_profile	Co-culture (profile only)
+v1_inherited	excluded_commercial	Commercial product (uncultured)
+v1_inherited	excluded_EV	EV-treatment study
+v1_inherited	excluded_insufficient_donors	Too few donors
+v1_inherited	excluded_methylation	Methylation platform
+v1_inherited	excluded_miRNA	miRNA platform
+v1_inherited	excluded_non_expression	No expression profiling
+v1_inherited	excluded_not_msc_profile	Not MSC profile
+v1_inherited	excluded_single_source	Single source (v1)
+v1_inherited	excluded_SVF_uncultured	Uncultured SVF
+v1_inherited	L1_confirmed	Multi-source, v1-confirmed
+v1_inherited	L1_pending_data	Multi-source, data pending
+v1_inherited	L1_scRNA	Single-cell (v1)
+v1_inherited	L2_anchor;L3	Anchor series with passage sub-series
+v1_inherited	L2_candidate	Single-source candidate (v1)
+v1_inherited	L2_confirmed_backfilled	Single-source, v1-confirmed
+v1_inherited	L3_candidate	Passage-series candidate (v1)

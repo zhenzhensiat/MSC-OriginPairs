@@ -1,0 +1,58 @@
+claim_id	gene	alias	high_source	low_source	contrast	evidence	pmid	discovery_gse	flag	exclude_reason
+X01	CD55		AD	BM;UC	AD_vs_BM_UC	RNA-seq (2,318 DEGs) + qPCR + functional (complement inhibition)	37357314	NA		
+X02	IFNGR1		BM	AD	BM_vs_AD	Surface proteomics (242 antibodies; BM/AT comparison compiled in the source paper)	37603218	NA		
+X03	TNFRSF1A		BM	AD	BM_vs_AD	Surface proteomics (242 antibodies; BM/AT comparison compiled in the source paper)	37603218	NA		
+X04	TNFRSF1B		BM	AD	BM_vs_AD	Surface proteomics (242 antibodies; BM/AT comparison compiled in the source paper)	37603218	NA		
+X05	IL1R1		BM	AD	BM_vs_AD	Surface proteomics (242 antibodies; BM/AT comparison compiled in the source paper)	37603218	NA		
+X06	IL4R		BM	AD	BM_vs_AD	Surface proteomics (242 antibodies; BM/AT comparison compiled in the source paper)	37603218	NA		
+X07	IL6R		BM	AD	BM_vs_AD	Surface proteomics (242 antibodies; BM/AT comparison compiled in the source paper)	37603218	NA		
+X08	IL7R		BM	AD	BM_vs_AD	Surface proteomics (242 antibodies; BM/AT comparison compiled in the source paper)	37603218	NA		
+X09	ENG		BM	AD	BM_vs_AD	Surface-protein flow cytometry (CD105 75% vs 45%)	41555856	NA		
+X10	MCAM		BM	AD	BM_vs_AD	Surface-protein flow cytometry (CD146 94% vs 53%)	41555856	NA		
+X11	AK4		UC	BM	UC_vs_BM	Proteomics DEP (p.adj=0.000066; LFC=3.07)	39849557	NA		
+X12	AKAP12		UC	BM	UC_vs_BM	Proteomics DEP (p.adj=0.042; LFC=2.91)	39849557	NA		
+X13	ARHGAP1		BM	UC	UC_vs_BM	Proteomics DEP (p.adj=0.0024; LFC=-2.21)	39849557	NA		
+X14	BTF3		BM	UC	UC_vs_BM	Proteomics DEP (p.adj=0.0011; LFC=-2.36)	39849557	NA		
+X15	CCDC124		BM	UC	UC_vs_BM	Proteomics DEP (p.adj=0.0000024; LFC=-2.05)	39849557	NA		
+X16	CLIC1		BM	UC	UC_vs_BM	Proteomics DEP (p.adj=0.017; LFC=-2.27)	39849557	NA		
+X17	CRYZ		BM	UC	UC_vs_BM	Proteomics DEP (p.adj=0.04; LFC=-1.48)	39849557	NA		
+X18	CTBP1		BM	UC	UC_vs_BM	Proteomics DEP (p.adj=0.014; LFC=-1.32)	39849557	NA		
+X19	CTSZ		UC	BM	UC_vs_BM	Proteomics DEP (p.adj=0.047; LFC=2.07)	39849557	NA		
+X20	DDX39B		BM	UC	UC_vs_BM	Proteomics DEP (p.adj=0.0017; LFC=-2.66)	39849557	NA		
+X21	DHCR24		BM	UC	UC_vs_BM	Proteomics DEP (p.adj=0.035; LFC=-2.06)	39849557	NA		
+X22	EEF1E1		UC	BM	UC_vs_BM	Proteomics DEP (p.adj=0.039; LFC=1.97)	39849557	NA		
+X23	EIF4A1		BM	UC	UC_vs_BM	Proteomics DEP (p.adj=0.011; LFC=-1.4)	39849557	NA		
+X24	EIF4A2		BM	UC	UC_vs_BM	Proteomics DEP (p.adj=0.0029; LFC=-2.6)	39849557	NA		
+X25	CALHM6	FAM26E	UC	BM	UC_vs_BM	Proteomics DEP (p.adj=0.023; LFC=1.79)	39849557	NA		
+X26	FAM98B		BM	UC	UC_vs_BM	Proteomics DEP (p.adj=0.032; LFC=-1.41)	39849557	NA		
+X27	FASN		BM	UC	UC_vs_BM	Proteomics DEP (p.adj=0.0056; LFC=-2.74)	39849557	NA		
+X28	FDXR		BM	UC	UC_vs_BM	Proteomics DEP (p.adj=0.045; LFC=-1.54)	39849557	NA		
+X29	FSCN1		BM	UC	UC_vs_BM	Proteomics DEP (p.adj=0.0047; LFC=-2.87)	39849557	NA		
+X30	H2AZ2	H2AFV	BM	UC	UC_vs_BM	Proteomics DEP (p.adj=0.026; LFC=-2.28)	39849557	NA		
+X31	HK1		BM	UC	UC_vs_BM	Proteomics DEP (p.adj=0.000022; LFC=-4.12)	39849557	NA		
+X32	HNRNPA1		BM	UC	UC_vs_BM	Proteomics DEP (p.adj=0.045; LFC=-2.34)	39849557	NA		
+X33	IER3IP1		UC	BM	UC_vs_BM	Proteomics DEP (p.adj=0.0031; LFC=2.81)	39849557	NA		
+X34	LPCAT2		BM	UC	UC_vs_BM	Proteomics DEP (p.adj=0.0025; LFC=-3.71)	39849557	NA		
+X35	MAP1LC3B		BM	UC	UC_vs_BM	Proteomics DEP (p.adj=2.3e-13; LFC=-3.57)	39849557	NA		
+X36	MME		BM	UC	UC_vs_BM	Proteomics DEP (p.adj=0.0062; LFC=-2.62)	39849557	NA		
+X37	MT-ND1		UC	BM	UC_vs_BM	Proteomics DEP (p.adj=0.023; LFC=1.42)	39849557	NA		
+X38	MTOR		UC	BM	UC_vs_BM	Proteomics DEP (p.adj=0.045; LFC=1.35)	39849557	NA		
+X39	NARS1	NARS	BM	UC	UC_vs_BM	Proteomics DEP (p.adj=0.033; LFC=-1.93)	39849557	NA		
+X40	NCL		BM	UC	UC_vs_BM	Proteomics DEP (p.adj=0.046; LFC=-2.15)	39849557	NA		
+X41	PA2G4		BM	UC	UC_vs_BM	Proteomics DEP (p.adj=7.5e-12; LFC=-3.73)	39849557	NA		
+X42	PI4KA		UC	BM	UC_vs_BM	Proteomics DEP (p.adj=0.046; LFC=1.38)	39849557	NA		
+X43	PIP4K2A		BM	UC	UC_vs_BM	Proteomics DEP (p.adj=0.00000004; LFC=-2.15)	39849557	NA		
+X44	RAB3B		BM	UC	UC_vs_BM	Proteomics DEP (p.adj=0.03; LFC=-1.82)	39849557	NA		
+X45	RSU1		BM	UC	UC_vs_BM	Proteomics DEP (p.adj=0.000066; LFC=-2.31)	39849557	NA		
+X46	SDCBP		BM	UC	UC_vs_BM	Proteomics DEP (p.adj=0.017; LFC=-1.87)	39849557	NA		
+X47	SERPINB6		BM	UC	UC_vs_BM	Proteomics DEP (p.adj=0.024; LFC=-1.55)	39849557	NA		
+X48	SLC25A20		UC	BM	UC_vs_BM	Proteomics DEP (p.adj=0.0048; LFC=1.79)	39849557	NA		
+X49	SLC38A2		BM	UC	UC_vs_BM	Proteomics DEP (p.adj=0.017; LFC=-2.37)	39849557	NA		
+X50	SNRPA		BM	UC	UC_vs_BM	Proteomics DEP (p.adj=0.0029; LFC=-2.57)	39849557	NA		
+X51	SSB		BM	UC	UC_vs_BM	Proteomics DEP (p.adj=0.00016; LFC=-1.9)	39849557	NA		
+X52	TALDO1		BM	UC	UC_vs_BM	Proteomics DEP (p.adj=0.0051; LFC=-2.03)	39849557	NA		
+X53	TKT		BM	UC	UC_vs_BM	Proteomics DEP (p.adj=0.042; LFC=-1.61)	39849557	NA		
+X54	TP53I11		UC	BM	UC_vs_BM	Proteomics DEP (p.adj=0.035; LFC=2.28)	39849557	NA		
+X55	TXN		BM	UC	UC_vs_BM	Proteomics DEP (p.adj=0.044; LFC=-2.27)	39849557	NA		
+X56	WDR1		BM	UC	UC_vs_BM	Proteomics DEP (p.adj=0.042; LFC=-2.21)	39849557	NA		
+X57	XPOT		BM	UC	UC_vs_BM	Proteomics DEP (p.adj=0.046; LFC=-1.2)	39849557	NA		

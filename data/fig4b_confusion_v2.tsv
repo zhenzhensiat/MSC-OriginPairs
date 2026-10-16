@@ -1,0 +1,10 @@
+true	pred	n
+AD	AD	50
+BM	AD	3
+UC	AD	0
+AD	BM	3
+BM	BM	92
+UC	BM	0
+AD	UC	0
+BM	UC	0
+UC	UC	26

@@ -1,0 +1,2 @@
+analysis	post_hoc	discovery_exclusion	n_rows	testable	transfer	rate	null_mean	null_sd	null_q95	empirical_p	n_sets
+published_two_sided	TRUE	TRUE	99	99	52	0.525252525252525	0.0874141414141414	0.034203144464971	0.151515151515152	0.000999000999000999	1000

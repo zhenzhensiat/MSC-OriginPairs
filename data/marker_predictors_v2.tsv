@@ -1,0 +1,11 @@
+variable	level	n	rep_rate	reversed_rate	model_summary	post_hoc
+assay_orig	array	27	0.333333333333333	0.0740740740740741	(Intercept): 2.045 (SE 1.663); log2_n: -0.898 (SE 0.441); expr_pct: 0.170 (SE 1.712); K: -0.178 (SE 0.131)	TRUE
+assay_orig	meta	1	1	0	(Intercept): 2.045 (SE 1.663); log2_n: -0.898 (SE 0.441); expr_pct: 0.170 (SE 1.712); K: -0.178 (SE 0.131)	TRUE
+assay_orig	protein	20	0.15	0.1	(Intercept): 2.045 (SE 1.663); log2_n: -0.898 (SE 0.441); expr_pct: 0.170 (SE 1.712); K: -0.178 (SE 0.131)	TRUE
+assay_orig	qPCR	6	0.333333333333333	0	(Intercept): 2.045 (SE 1.663); log2_n: -0.898 (SE 0.441); expr_pct: 0.170 (SE 1.712); K: -0.178 (SE 0.131)	TRUE
+assay_orig	RNAseq	41	0.48780487804878	0.292682926829268	(Intercept): 2.045 (SE 1.663); log2_n: -0.898 (SE 0.441); expr_pct: 0.170 (SE 1.712); K: -0.178 (SE 0.131)	TRUE
+assay_orig	TF	4	0.25	0	(Intercept): 2.045 (SE 1.663); log2_n: -0.898 (SE 0.441); expr_pct: 0.170 (SE 1.712); K: -0.178 (SE 0.131)	TRUE
+medium_orig	unknown	99	0.363636363636364	0.161616161616162	(Intercept): 2.045 (SE 1.663); log2_n: -0.898 (SE 0.441); expr_pct: 0.170 (SE 1.712); K: -0.178 (SE 0.131)	TRUE
+contrast	AD-UC	24	0.416666666666667	0.0833333333333333	(Intercept): 2.045 (SE 1.663); log2_n: -0.898 (SE 0.441); expr_pct: 0.170 (SE 1.712); K: -0.178 (SE 0.131)	TRUE
+contrast	BM-AD	30	0.1	0.366666666666667	(Intercept): 2.045 (SE 1.663); log2_n: -0.898 (SE 0.441); expr_pct: 0.170 (SE 1.712); K: -0.178 (SE 0.131)	TRUE
+contrast	BM-UC	45	0.511111111111111	0.0666666666666667	(Intercept): 2.045 (SE 1.663); log2_n: -0.898 (SE 0.441); expr_pct: 0.170 (SE 1.712); K: -0.178 (SE 0.131)	TRUE

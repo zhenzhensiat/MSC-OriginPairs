@@ -1,0 +1,83 @@
+claim_id	gene	high_source	low_source	discovery_gse	pmid	hgnc_symbol	source_qualifier	evidence	opposite_claims_set	v2_flag
+C01	CD200	UC	BM;AD	NA	37384924	CD200	 | 	RNA-seq detection threshold + qPCR		
+C02	VCAM1	AD	BM;UC	NA	37384924	VCAM1	 | 	RNA-seq detection threshold + qPCR	set_V1	
+C03	PTGS2	UC	BM	GSE129165	35924240	PTGS2	 | 	array+qPCR		
+C04	IL1B	UC	BM	GSE129165	35924240	IL1B	 | 	array		
+C05	LIF	UC	BM	GSE129165	35924240	LIF	 | 	array	set_L1	
+C06	CXCL12	UC	BM	GSE129165	35924240	CXCL12	 | not detected	array+qPCR	set_X1	
+C07	FGF2	UC	BM	GSE129165	35924240	FGF2	 | 	Conditioned-medium protein quantification	set_F1	
+C08	CXCL1	UC	BM;AD	GSE199826	36493779	CXCL1	 | adult	Transcriptome + secretome	set_X2	
+C09	CXCL8	UC	BM;AD	GSE199826	36493779	CXCL8	 | adult	Transcriptome + secretome	set_X2	
+C10	CSF3	UC	BM;AD	GSE199826	36493779	CSF3	 | adult	Secretome		
+C11	CSF1	UC	BM;AD	GSE199826	36493779	CSF1	 | adult	Secretome		
+C12	IL6	UC	BM;AD	GSE199826	36493779	IL6	 | adult	Transcriptome + secretome		
+C13	IL13	UC	BM;AD	GSE199826	36493779	IL13	 | adult	Secretome (T-cell suppression, interleukin panel)		
+C14	IL1R1	UC	BM;AD	GSE199826	36493779	IL1R1	 | adult	Secretome		
+C15	CXCL12	BM;AD	UC	GSE199826	36493779	CXCL12	adult | 	Secretome growth factors	set_X1	
+C16	VEGFA	BM;AD	UC	GSE199826	36493779	VEGFA	adult | 	Secretome growth factors		
+C17	CCL2	BM	UC	GSE199826	36493779	CCL2	 | 	Transcriptome + secretome	set_C1	
+C18	CCL22	BM	UC	GSE199826	36493779	CCL22	 | 	Secretome		
+C19	IL10	BM	UC	GSE199826	36493779	IL10	 | 	Secretome		
+C20	CD274	BM	UC	GSE199826	36493779	CD274	 | 	Secretome		
+C21	HGF	BM	UC	GSE199826	36493779	HGF	 | 	Secretome		
+C22	VCAM1	BM	UC	GSE199826	36493779	VCAM1	 | 	Secretome	set_V1	
+C23	CSF2	AD	UC;BM	GSE199826	36493779	CSF2	 | 	Secretome		
+C24	GCLM	AD	BM	GSE108511	41024953	GCLM	 | 	array(FDR<0.05)		
+C25	NQO1	AD	BM	GSE108511	41024953	NQO1	 | 	array		
+C26	PRDX3	AD	BM	GSE108511	41024953	PRDX3	 | 	array		
+C27	TXNRD1	AD	BM	GSE108511	41024953	TXNRD1	 | 	array		
+C28	TFAM	AD	BM	GSE108511	41024953	TFAM	 | 	array		
+C29	CLUH	AD	BM	GSE108511	41024953	CLUH	 | 	array		
+C30	AAED1	AD	BM	GSE108511	41024953	PRXL2C	 | 	array		
+C31	NXN	AD	BM	GSE108511	41024953	NXN	 | 	array		
+C32	CXCL16	BM	AD	GSE128949	31205472	CXCL16	 | 	qPCR + protein		
+C33	TGFB2	BM	AD	GSE128949	31205472	TGFB2	 | 	qPCR		
+C34	SMAD3	BM	AD	GSE128949	31205472	SMAD3	 | 	qPCR+WB		
+C35	COL14A1	BM	AD	GSE128949	31205472	COL14A1	 | 	qPCR + protein		
+C36	SCX	BM	AD	GSE128949	31205472	SCX	 | 	qPCR		
+C37	CCL2	BM	AD	GSE128949	31205472	CCL2	 | 	Array (qPCR subset)	set_C1	
+C38	CXCL8	BM	AD	GSE128949	31205472	CXCL8	 | 	array	set_X2	
+C39	CXCL1	BM	AD	GSE128949	31205472	CXCL1	 | 	array	set_X2	
+C40	CXCL6	BM	AD	GSE128949	31205472	CXCL6	 | 	array		
+C41	PPARG	AD	BM	GSE128949	31205472	PPARG	 | 	qPCR		
+C42	VCAM1	BM	AD	GSE72332	27871224	VCAM1	 | PL;FIB	Meta-analysis differential expression	set_V1	
+C43	MCAM	BM		GSE72332	27871224	MCAM	 | HSPC;FIB (also enriched in BM)	Meta-analysis differential expression		no_class_projection
+C44	PPAPDC1A	AD	BM	GSE72332	27871224	PLPP4	 | PL;FIB	Meta-analysis differential expression		
+C45	E2F1	UC	BM;AD	NA	41284123	E2F1	fetal | adult	Transcription-factor enrichment	TF-level claim	
+C46	NFKB1	UC	BM;AD	NA	41284123	NFKB1	fetal | adult	Transcription-factor enrichment	TF-level claim	
+C47	NANOG	UC		NA	41284123	NANOG	 | adult	Citation level (cited from another study)	citation-level claim	no_class_projection
+C48	DNMT3B	UC		NA	41284123	DNMT3B	 | adult	Citation level (cited from another study)	citation-level claim	no_class_projection
+C49	GABRB3	UC		NA	41284123	GABRB3	 | adult	Citation level (cited from another study)	citation-level claim	no_class_projection
+C50	IGFBP2	AD	BM	NA	41284123	IGFBP2	 | 	RNA-seq DEG(FDR<0.05)	re-check: located (formerly R01)	
+C51	SRGN	AD	BM	NA	41284123	SRGN	 | 	RNA-seq DEG	re-check: located	
+C52	PLCB4	AD	BM	NA	41284123	PLCB4	 | 	RNA-seq DEG	re-check: located	
+C53	EDIL3	AD	BM	NA	41284123	EDIL3	 | 	RNA-seq DEG	re-check: located	
+C54	IGF2	AD	BM	NA	41284123	IGF2	 | 	RNA-seq DEG	re-check: located (formerly R02)	
+C55	IL13RA2	BM	AD	NA	41284123	IL13RA2	 | 	RNA-seq DEG	re-check: located (formerly R03)	
+C56	SFRP4	BM	AD	NA	41284123	SFRP4	 | 	RNA-seq DEG	re-check: located (formerly R04)	
+C57	PI16	BM	AD	NA	41284123	PI16	 | 	RNA-seq DEG	re-check: located	
+C58	PKDCC	BM	AD	NA	41284123	PKDCC	 | 	RNA-seq DEG	re-check: located	
+C59	EPB41L3	BM	AD	NA	41284123	EPB41L3	 | 	RNA-seq DEG	re-check: located	
+C60	BDKRB1	UC	BM;AD	NA	41284123	BDKRB1	fetal | adult	RNA-seq DEG(FDR<0.05)	re-check: added (fetal vs adult panel)	
+C61	MYRF	UC	BM;AD	NA	41284123	MYRF	fetal | adult	RNA-seq DEG	re-check: added	
+C62	SHC3	UC	BM;AD	NA	41284123	SHC3	fetal | adult	RNA-seq DEG	re-check: added	
+C63	DSC3	UC	BM;AD	NA	41284123	DSC3	fetal | adult	RNA-seq DEG	re-check: added	
+C64	IGF2BP1	UC	BM;AD	NA	41284123	IGF2BP1	fetal | adult	RNA-seq DEG	re-check: added (distinct gene from IGF2)	
+C65	ENPP2	BM;AD	UC	NA	41284123	ENPP2	adult | fetal	RNA-seq DEG	re-check: added (opposite direction in the downregulated panel)	
+C66	PDE1C	BM;AD	UC	NA	41284123	PDE1C	adult | fetal	RNA-seq DEG	re-check: added	
+C67	CYGB	BM;AD	UC	NA	41284123	CYGB	adult | fetal	RNA-seq DEG	re-check: added	
+C68	PGF	BM;AD	UC	NA	41284123	PGF	adult | fetal	RNA-seq DEG	re-check: added	
+C69	TBX15	BM;AD	UC	NA	41284123	TBX15	adult | fetal	RNA-seq DEG	re-check: added	
+C70	SOX11	UC	BM	GSE48022	23991127	SOX11	 | 	array+RT-qPCR	extension: added	
+C71	PITX1	UC	BM	GSE48022	23991127	PITX1	 | 	array+RT-qPCR	extension: added	
+C72	FOXF1	UC	BM	GSE48022	23991127	FOXF1	 | 	array+RT-qPCR	extension: added	
+C73	HBEGF	UC	BM	GSE48022	23991127	HBEGF	 | 	array+RT-qPCR	extension: added	
+C74	CXCL5	UC	BM	GSE48022	23991127	CXCL5	 | 	array+RT-qPCR+ELISA	extension: added	
+C75	CXCL2	UC	BM	GSE48022	23991127	CXCL2	 | 	array+RT-qPCR	extension: added	
+C76	EGF	UC	BM	GSE48022	23991127	EGF	 | 	array+RT-qPCR	extension: added	
+C77	FGF9	UC	BM	GSE48022	23991127	FGF9	 | 	array+RT-qPCR	extension: added	
+C78	MDK	UC	BM	GSE48022	23991127	MDK	 | 	array+RT-qPCR	extension: added	
+C79	NTF3	UC	BM	GSE48022	23991127	NTF3	 | 	array+RT-qPCR	extension: added	
+C80	PGF	BM	UC	GSE48022	23991127	PGF	 | 	array+RT-qPCR+ELISA	extension: added (cross-study support, same direction as C68)	
+C81	ANGPT1	BM	UC	GSE48022	23991127	ANGPT1	 | 	array+RT-qPCR	extension: added	
+R05	ACE	BM;AD		NA	NA	ACE	 | perinatal	Source not located after in-depth re-check	not located; excluded	no_class_projection

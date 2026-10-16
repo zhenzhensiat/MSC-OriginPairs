@@ -1,0 +1,8 @@
+rule_type	label	priority	regex	note
+msc	MSC	0	mesenchymal|\bmscs?\b|stromal cell|\bascs?\b|\badscs?\b|\bbm-?mscs?\b|\buc-?mscs?\b|\bwj-?mscs?\b|wharton	MSC classifier; requires manual review before running
+source	UCB	1	cord blood|\bucb\b	cord blood counts as Other tissue; priority above UC
+source	OTHER	1	placenta|amnio|chorion|dental pulp|\bdpscs?\b|periodontal|synovi|endometri|dermal|skin|menstrual|tendon|muscle	tissues outside the three classes
+source	BM	2	bone marrow|\bbm-?mscs?\b|\bbmscs?\b|marrow stromal|iliac crest	bone marrow
+source	AD	2	adipose|lipoaspirate|\bascs?\b|\badscs?\b|\bat-?mscs?\b|subcutaneous fat|liposuction	adipose
+source	UC	2	umbilical cord|wharton|\bwj\b|\buc-?mscs?\b|\bhucmscs?\b	umbilical cord (incl. Wharton's jelly)
+exclude_arm	EXCLUDE	0	differentiat|osteogenic|adipogenic|chondrogenic|induc|knock|sirna|shrna|overexpress|(?<!un)treat|(?<!un)stimulat|(?<!un)primed|ipsc|\besc\b|transfect|infect|irradiat|hypoxi	non-standard culture arm: not part of the main analysis (culture-condition stability used separately)

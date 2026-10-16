@@ -1,0 +1,6 @@
+arm_type	n	n_studies	accuracy	abstain	rejected	median_margin	post_hoc
+culture_variant	22	4	0.954545454545455	0	0.409090909090909	0.260460237447252	TRUE
+disease_donor	85	6	1	0	0.0588235294117647	0.568198722591043	TRUE
+other	3	1	1	0	0	0.527578053610893	TRUE
+primed	3	1	1	0	0	0.590228848463031	TRUE
+treated	27	4	1	0	0	0.516277211379088	TRUE

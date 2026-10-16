@@ -1,0 +1,51 @@
+accession	category	unresolved_issue	human_reason
+GSE219227	Insufficient metadata	Arm and tissue source not specified	hMSC complement lysis treatment design; control arm and tissue source not specified (to be decided after GEO sample-level check)
+GSE20431	Insufficient metadata	Untreated control arm unverified	FePro magnetically labeled BMSC; if unlabeled control arm present, BM recoverable (decided after sample-level check)
+GSE137173	Insufficient metadata	Sequencing target (MSC vs tissue) unresolved	AD+UC MSC for colitis treatment model; sequencing target (MSC or target tissue) pending sample-level check
+GSE61153	Insufficient metadata	Adult-source tissue and donor count unverified	Fetal vs adult MSC + fibroblast design; adult-side tissue (suspected BM) and donor count to be verified
+GSE267908	Insufficient metadata	Control (non-diseased) arm and tissue source unverified	OA vs non-OA donor MSC; tissue source (synovium/BM) and healthy arm composition pending sample-level check
+GSE119096	Insufficient metadata	Conventional-culture control arm unverified	SCM matrix culture process; standard TCPS control arm to be verified, BM recoverable
+GSE168055	Insufficient metadata	Normoxia control arm and tissue source unverified	5% vs 20% oxygen MSC comparison; 20% normoxia arm and tissue source to be verified (GPL570 n=6)
+GSE2776	Insufficient metadata	Untreated control arm unverified	Chemical neural differentiation vs untreated MSC; untreated control arm to be verified, BM recoverable
+GSE35955	Insufficient metadata	Healthy-donor arm unverified; potential team overlap with discovery cohort	BM-MSC elderly vs middle-aged; middle-aged healthy arm recoverable C_BM; G02 line suspect, independence to be verified (if G02 in same cluster, barred from C)
+GSE35956	Insufficient metadata	Healthy-donor arm unverified; potential team overlap with discovery cohort	Osteoporosis + age series; healthy arm to be verified; G02 independence verification as above
+GSE35957	Insufficient metadata	Healthy-donor arm unverified; potential team overlap with discovery cohort	Cellular senescence series (non-osteoporotic donors); as above
+GSE35958	Insufficient metadata	Healthy-donor arm unverified; potential team overlap with discovery cohort	Osteoporosis series; healthy control arm to be verified; as above
+GSE48662	Insufficient metadata	Untreated control arm unverified	γ-irradiation-induced senescence BM-hMSC panel; untreated control arm to be verified, BM recoverable
+GSE108915	Insufficient metadata	Healthy-donor arm unverified	MM patient BMSC; healthy control BMSC arm to be verified, recoverable
+GSE111822	Insufficient metadata	Undifferentiated baseline composition unverified	BMSC chondrogenic potential predictive markers; undifferentiated baseline sample composition to be verified
+GSE118961	Insufficient metadata	Untreated control arm unverified	BM-MSC treated with PSC-EV; untreated control arm to be verified
+GSE124859	Insufficient metadata	Companion-series composition unverified	Same series companion bulk (composition to be verified)
+GSE124860	Insufficient metadata	Companion-series composition unverified	Same series companion array (composition to be verified)
+GSE142563	Insufficient metadata	Bone-arm tissue site and donors unverified	Neonatal thymus vs bone MSC paired; bone arm sites and donors to be verified (thymus arm excluded)
+GSE152507	Insufficient metadata	Conventional 2D control arm unverified	Cellhesion VP material WJ-MSC; standard 2D control arm to be verified
+GSE184225	Insufficient metadata	Conventional 2D arm and donors unverified	2D vs 3D BMSC (HSC niche); 2D standard arm donors to be verified
+GSE194303	Duplicate or super-series	Super-series without independent data (represented by sub-series)	Superseries has no independent data; expression composition follows subseries GSE194298
+GSE222013	Insufficient metadata	Healthy-donor arm unverified	Spinal tuberculosis BMSC; healthy control arm to be verified
+GSE230534	Insufficient metadata	Healthy-donor arm tissue and donors unverified	CML vs healthy donor MSC; healthy arm tissue and donor count to be verified
+GSE246107	Insufficient metadata	Standard-culture (FBS) arm inclusion unverified	ADSC multiple medium effects; whether FBS standard arm included to be verified
+GSE261358	Insufficient metadata	Healthy-donor arm unverified	Fibrous dysplasia of bone BMSC; healthy control BMSC arm to be verified
+GSE45663	Insufficient metadata	Mono-culture control arm unverified	Leukemia line and BMSC co-culture; BMSC mono-culture control arm to be verified
+GSE47869	Insufficient metadata	ADSC-side composition unverified	DFAT vs same-donor ADSC; ADSC side composition to be verified
+GSE52841	Insufficient metadata	Normal-weight baseline arm unverified	WJ-MSC birth weight ± insulin; normal weight group baseline to be verified (post-insulin excluded)
+GSE52842	Insufficient metadata	Normal-weight baseline arm unverified	Same series
+GSE52843	Insufficient metadata	Normal-weight baseline arm unverified	Same series
+GSE52844	Insufficient metadata	Normal-weight baseline arm unverified	Same series
+GSE60525	Insufficient metadata	Standard-confluence control arm unverified	BMSC confluence comparison (human); standard confluence control arm to be verified
+GSE87796	Insufficient metadata	Source tissue (putative BM) unverified	MSC hPL vs FCS medium; FCS arm recoverable but tissue source to be verified (suspected BM)
+GSE90131	Insufficient metadata	Untreated control arm unverified	Fucosylation treatment vs untreated BMSC; untreated arm to be verified
+GSE92640	Insufficient metadata	Standard-protocol arm and donor composition unverified	BMSC manufacturing method multicenter comparison; standard method arm and donor composition to be verified
+GSE92778	Insufficient metadata	Healthy-donor arm unverified	AML vs healthy donor MSC; healthy arm to be verified (AML arm excluded)
+GSE102401	Insufficient metadata	Untreated control arm unverified	Monocyte/osteoclast EV treatment of ADSC; untreated control arm to be verified
+GSE133346	Insufficient metadata	Healthy-donor arm and tissue site unverified	Healthy vs MM adipose stromal cells; healthy arm and tissue sites to be verified
+GSE193021	Insufficient metadata	Baseline sample inclusion unverified	BMSC ECM expression; design composition to be verified (suspected to contain baseline)
+GSE231660	Insufficient metadata	Donor-batch composition unverified	REALIST-COVID ORBCEL-C BM-MSC product; donor batch composition to be verified (if healthy-donor product then C_BM)
+GSE249452	Insufficient metadata	Product transcriptome composition unverified	BM-MSC quality OA clinical follow-up; product transcriptome composition and platform to be verified
+GSE280881	Insufficient metadata	Healthy-donor arm unverified	MDS MSC disease progression; healthy control arm to be verified
+GSE288316	Insufficient metadata	Undifferentiated baseline composition unverified	BMSC differentiation plasticity n=51; undifferentiated baseline composition to be verified
+GSE293806	Insufficient metadata	Healthy-donor arm unverified	Aplastic anemia (AA) BMSC; healthy control arm to be verified
+GSE293949	Insufficient metadata	Donor and tissue site unverified	Rotator cuff AD stromal cells; donors and sites to be verified
+GSE294580	Insufficient metadata	FBS baseline composition unverified	hPL MSC hematopoietic support n=49; FBS baseline composition to be verified
+GSE309538	Insufficient metadata	Healthy-donor arm unverified	Same series array; healthy control arm to be verified
+GSE309540	Insufficient metadata	Healthy-donor arm unverified	Same series array; healthy control arm to be verified
+GSE317531	Insufficient metadata	Undifferentiated baseline composition unverified	ITGA11 donor osteogenic capacity n=56; undifferentiated donor baseline to be verified

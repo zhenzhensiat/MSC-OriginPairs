@@ -1,0 +1,3 @@
+platform	n	n_studies	ba	recall_AD	recall_BM	recall_UC
+microarray	78	9	0.933333333333333	1	0.8	1
+RNA-seq	98	13	1	1	1	1

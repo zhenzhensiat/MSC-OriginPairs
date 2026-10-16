@@ -1,0 +1,7 @@
+item	value	display	source_table	post_hoc
+main	0.957575757575758	BA 0.958 (95%CI 0.857–1.000; main analysis)	data/confirm_sensitivity_v2.tsv / confirm_results_v2.tsv	FALSE
+excl_GSE24871	1	After removing GSE24871, BA = 1.000	data/confirm_sensitivity_v2.tsv / confirm_results_v2.tsv	TRUE
+leave_one_cluster_min	0.946969696969697	Minimum BA across leave-one-out clusters = 0.947	data/confirm_sensitivity_v2.tsv / confirm_results_v2.tsv	TRUE
+donor_level	0.941666666666667	Donor-level BA = 0.942	data/confirm_sensitivity_v2.tsv / confirm_results_v2.tsv	TRUE
+evaluable_samples_169_169	0.978408811051769	169/169 evaluable samples correctly classified (exact binomial 95% lower bound 0.978)	data/confirm_sensitivity_v2.tsv / confirm_results_v2.tsv	TRUE
+evaluable_clusters_20_20	0.831566529016915	20/20 evaluable clusters correctly classified (exact binomial 95% lower bound 0.832)	data/confirm_sensitivity_v2.tsv / confirm_results_v2.tsv	TRUE

@@ -1,0 +1,10 @@
+stratum	level	n_rows	claimed	reversed	not_replicated	frac_claimed
+assay_orig	array	27	9	2	16	0.333333333333333
+assay_orig	meta	1	1	0	0	1
+assay_orig	protein	20	3	2	15	0.15
+assay_orig	qPCR	6	2	0	4	0.333333333333333
+assay_orig	RNAseq	41	20	12	9	0.48780487804878
+assay_orig	TF	4	1	0	3	0.25
+contrast	AD-UC	24	10	2	12	0.416666666666667
+contrast	BM-AD	30	3	11	16	0.1
+contrast	BM-UC	45	23	3	19	0.511111111111111

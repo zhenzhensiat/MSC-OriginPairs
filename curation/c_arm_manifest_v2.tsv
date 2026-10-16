@@ -1,0 +1,250 @@
+gse	cluster_id	gsm	source	donor	arm_type	arm_detail	passage	medium	include_in_53	excl_reason	sample_title
+GSE130393	GSE130393	GSM3737404	AD	NA	NA	NA	NA	NA	FALSE	Study excluded at build (188-gene panel; 0 rule genes detected)	donor 1 hypoxia
+GSE130393	GSE130393	GSM3737406	AD	NA	NA	NA	NA	NA	FALSE	Study excluded at build (188-gene panel; 0 rule genes detected)	donor 2 hypoxia
+GSE130393	GSE130393	GSM3737408	AD	NA	NA	NA	NA	NA	FALSE	Study excluded at build (188-gene panel; 0 rule genes detected)	donor 3 hypoxia
+GSE130393	GSE130393	GSM3737410	AD	NA	NA	NA	NA	NA	FALSE	Study excluded at build (188-gene panel; 0 rule genes detected)	donor 4 hypoxia
+GSE144605	GSE144605	GSM4291923	AD	HRMVPC donor 1 high glucose	NA	NA	NA	NA	FALSE	HRMVPC non-MSC control	HRMVPC donor 1 high glucose
+GSE144605	GSE144605	GSM4291924	AD	HRMVPC donor 2 high glucose	NA	NA	NA	NA	FALSE	HRMVPC non-MSC control	HRMVPC donor 2 high glucose
+GSE144605	GSE144605	GSM4291925	AD	HRMVPC donor 3 high glucose	NA	NA	NA	NA	FALSE	HRMVPC non-MSC control	HRMVPC donor 3 high glucose
+GSE144605	GSE144605	GSM4291926	AD	HRMVPC donor 1 normal glucose	NA	NA	NA	NA	FALSE	HRMVPC non-MSC control	HRMVPC donor 1 normal glucose
+GSE144605	GSE144605	GSM4291927	AD	HRMVPC donor 2 normal glucose	NA	NA	NA	NA	FALSE	HRMVPC non-MSC control	HRMVPC donor 2 normal glucose
+GSE144605	GSE144605	GSM4291928	AD	HRMVPC donor 3 normal glucose	NA	NA	NA	NA	FALSE	HRMVPC non-MSC control	HRMVPC donor 3 normal glucose
+GSE144605	GSE144605	GSM4291929	AD	1	treated	High glucose (25 mM) treatment	NA	NA	TRUE	NA	ASC donor 1 high glucose
+GSE144605	GSE144605	GSM4291930	AD	2	treated	High glucose (25 mM) treatment	NA	NA	TRUE	NA	ASC donor 2 high glucose
+GSE144605	GSE144605	GSM4291931	AD	3	treated	High glucose (25 mM) treatment	NA	NA	TRUE	NA	ASC donor 3 high glucose
+GSE200086	GSE200086	GSM6008414	AD	55	culture_variant	SFD serum-free defined culture	NA	NA	TRUE	NA	ADSC, Donor 55, SFD culture condition
+GSE200086	GSE200086	GSM6008416	AD	61	culture_variant	SFD serum-free defined culture	NA	NA	TRUE	NA	ADSC, Donor 61, SFD culture condition
+GSE200086	GSE200086	GSM6008418	AD	66	culture_variant	SFD serum-free defined culture	NA	NA	TRUE	NA	ADSC, Donor 66, SFD culture condition
+GSE200086	GSE200086	GSM6008420	AD	67	culture_variant	SFD serum-free defined culture	NA	NA	TRUE	NA	ADSC, Donor 67, SFD culture condition
+GSE217709	GSE217709	GSM6725269	AD	1	disease_donor	Diabetic kidney disease (DKD)	NA	NA	TRUE	NA	DKD.1
+GSE217709	GSE217709	GSM6725270	AD	2	disease_donor	Diabetic kidney disease (DKD)	NA	NA	TRUE	NA	DKD.2
+GSE217709	GSE217709	GSM6725271	AD	3	disease_donor	Diabetic kidney disease (DKD)	NA	NA	TRUE	NA	DKD.3
+GSE217709	GSE217709	GSM6725272	AD	4	disease_donor	Diabetic kidney disease (DKD)	NA	NA	TRUE	NA	DKD.4
+GSE217709	GSE217709	GSM6725273	AD	5	disease_donor	Diabetic kidney disease (DKD)	NA	NA	TRUE	NA	DKD.5
+GSE217709	GSE217709	GSM6725274	AD	6	disease_donor	Diabetic kidney disease (DKD)	NA	NA	TRUE	NA	DKD.6
+GSE217709	GSE217709	GSM6725275	AD	7	disease_donor	Diabetic kidney disease (DKD)	NA	NA	TRUE	NA	DKD.7
+GSE217709	GSE217709	GSM6725276	AD	8	disease_donor	Diabetic kidney disease (DKD)	NA	NA	TRUE	NA	DKD.8
+GSE217709	GSE217709	GSM6725277	AD	9	disease_donor	Diabetic kidney disease (DKD)	NA	NA	TRUE	NA	DKD.9
+GSE217709	GSE217709	GSM6725278	AD	10	disease_donor	Diabetic kidney disease (DKD)	NA	NA	TRUE	NA	DKD.10
+GSE217709	GSE217709	GSM6725279	AD	11	disease_donor	Diabetic kidney disease (DKD)	NA	NA	TRUE	NA	DKD.11
+GSE217709	GSE217709	GSM6725280	AD	12	disease_donor	Diabetic kidney disease (DKD)	NA	NA	TRUE	NA	DKD.12
+GSE217709	GSE217709	GSM6725281	AD	13	disease_donor	Diabetic kidney disease (DKD)	NA	NA	TRUE	NA	DKD.13
+GSE217709	GSE217709	GSM6725282	AD	14	disease_donor	Diabetic kidney disease (DKD)	NA	NA	TRUE	NA	DKD.14
+GSE217709	GSE217709	GSM6725283	AD	15	disease_donor	Diabetic kidney disease (DKD)	NA	NA	TRUE	NA	DKD.15
+GSE217709	GSE217709	GSM6725284	AD	16	disease_donor	Diabetic kidney disease (DKD)	NA	NA	TRUE	NA	DKD.16
+GSE217709	GSE217709	GSM6725285	AD	17	disease_donor	Diabetic kidney disease (DKD)	NA	NA	TRUE	NA	DKD.17
+GSE217709	GSE217709	GSM6725286	AD	18	disease_donor	Diabetic kidney disease (DKD)	NA	NA	TRUE	NA	DKD.18
+GSE217709	GSE217709	GSM6725287	AD	19	disease_donor	Diabetic kidney disease (DKD)	NA	NA	TRUE	NA	DKD.19
+GSE217709	GSE217709	GSM6725288	AD	20	disease_donor	Diabetic kidney disease (DKD)	NA	NA	TRUE	NA	DKD.20
+GSE217709	GSE217709	GSM6725289	AD	21	disease_donor	Diabetic kidney disease (DKD)	NA	NA	TRUE	NA	DKD.21
+GSE217709	GSE217709	GSM6725290	AD	46	disease_donor	Diabetic kidney disease (DKD)	NA	NA	TRUE	NA	DKD.46
+GSE217709	GSE217709	GSM6725291	AD	47	disease_donor	Diabetic kidney disease (DKD)	NA	NA	TRUE	NA	DKD.47_R
+GSE217709	GSE217709	GSM6725292	AD	48	disease_donor	Diabetic kidney disease (DKD)	NA	NA	TRUE	NA	DKD.48
+GSE217709	GSE217709	GSM6725293	AD	49	disease_donor	Diabetic kidney disease (DKD)	NA	NA	TRUE	NA	DKD.49
+GSE217709	GSE217709	GSM6725294	AD	50	disease_donor	Diabetic kidney disease (DKD)	NA	NA	TRUE	NA	DKD.50_R
+GSE217709	GSE217709	GSM6725295	AD	51	disease_donor	Diabetic kidney disease (DKD)	NA	NA	TRUE	NA	DKD.51
+GSE217709	GSE217709	GSM6725296	AD	52	disease_donor	Diabetic kidney disease (DKD)	NA	NA	TRUE	NA	DKD.52
+GSE217709	GSE217709	GSM6725297	AD	53	disease_donor	Diabetic kidney disease (DKD)	NA	NA	TRUE	NA	DKD.53
+GSE222263	GSE222263	GSM6919262	AD	1	disease_donor	Obese donors (O-ASCs)	NA	NA	TRUE	NA	O-ASCs-1
+GSE222263	GSE222263	GSM6919263	AD	2	disease_donor	Obese donors (O-ASCs)	NA	NA	TRUE	NA	O-ASCs-2
+GSE222263	GSE222263	GSM6919264	AD	3	disease_donor	Obese donors (O-ASCs)	NA	NA	TRUE	NA	O-ASCs-3
+GSE265844	GSE265844	GSM8229980	AD	1	culture_variant	CD73-sorted (isolated)	NA	NA	TRUE	NA	isolated_MSCs, biol rep 1
+GSE265844	GSE265844	GSM8229981	AD	2	culture_variant	CD73-sorted (isolated)	NA	NA	TRUE	NA	isolated_MSCs, biol rep 2
+GSE265844	GSE265844	GSM8229982	AD	3	culture_variant	CD73-sorted (isolated)	NA	NA	TRUE	NA	isolated_MSCs, biol rep 3
+GSE265844	GSE265844	GSM8229983	AD	4	culture_variant	CD73-sorted (isolated)	NA	NA	TRUE	NA	isolated_MSCs, biol rep 4
+GSE308101	GSE308101	GSM9237889	AD	SUB35	disease_donor	Overweight/obese donors (BMI>=35/>=40)	NA	NA	TRUE	NA	SUB35_1, humanASC, BMI≥35
+GSE308101	GSE308101	GSM9237890	AD	SUB35	disease_donor	Overweight/obese donors (BMI>=35/>=40)	NA	NA	TRUE	NA	SUB35_2, humanASC, BMI≥35
+GSE308101	GSE308101	GSM9237891	AD	SUB35	disease_donor	Overweight/obese donors (BMI>=35/>=40)	NA	NA	TRUE	NA	SUB35_3, humanASC, BMI≥35
+GSE308101	GSE308101	GSM9237892	AD	SUB35	disease_donor	Overweight/obese donors (BMI>=35/>=40)	NA	NA	TRUE	NA	SUB35_4, humanASC, BMI≥35
+GSE308101	GSE308101	GSM9237893	AD	SUB35	disease_donor	Overweight/obese donors (BMI>=35/>=40)	NA	NA	TRUE	NA	SUB35_5, humanASC, BMI≥35
+GSE308101	GSE308101	GSM9237894	AD	SUB40	disease_donor	Overweight/obese donors (BMI>=35/>=40)	NA	NA	TRUE	NA	SUB40_1, humanASC, BMI≥40
+GSE308101	GSE308101	GSM9237895	AD	SUB40	disease_donor	Overweight/obese donors (BMI>=35/>=40)	NA	NA	TRUE	NA	SUB40_2, humanASC, BMI≥40
+GSE308101	GSE308101	GSM9237896	AD	SUB40	disease_donor	Overweight/obese donors (BMI>=35/>=40)	NA	NA	TRUE	NA	SUB40_3, humanASC, BMI≥40
+GSE308101	GSE308101	GSM9237897	AD	SUB40	disease_donor	Overweight/obese donors (BMI>=35/>=40)	NA	NA	TRUE	NA	SUB40_4, humanASC, BMI≥40
+GSE308101	GSE308101	GSM9237898	AD	SUB40	disease_donor	Overweight/obese donors (BMI>=35/>=40)	NA	NA	TRUE	NA	SUB40_5, humanASC, BMI≥40
+GSE90149	GSE90149	GSM2399755	BM	NA	NA	NA	NA	NA	FALSE	Placenta arm (tissue outside the three sources)	mesenchymal stromal cells, fetal side of placenta patient no. 35
+GSE90149	GSE90149	GSM2399756	BM	NA	NA	NA	NA	NA	FALSE	Placenta arm (tissue outside the three sources)	mesenchymal stromal cells, fetal side of placenta patient no. 33
+GSE90149	GSE90149	GSM2399757	BM	NA	NA	NA	NA	NA	FALSE	Placenta arm (tissue outside the three sources)	mesenchymal stromalcells, maternal side of placenta patient no. 33
+GSE90149	GSE90149	GSM2399758	BM	NA	NA	NA	NA	NA	FALSE	Placenta arm (tissue outside the three sources)	mesenchymal stromal cells, fetal side of placenta patient no. 30
+GSE90149	GSE90149	GSM2399759	BM	NA	NA	NA	NA	NA	FALSE	Placenta arm (tissue outside the three sources)	mesenchymal stromal cells, fetal side of placenta patient no. 45
+GSE90149	GSE90149	GSM2399760	BM	NA	NA	NA	NA	NA	FALSE	Placenta arm (tissue outside the three sources)	mesenchymal stromalcells, maternal side of placenta patient no. 45
+GSE90149	GSE90149	GSM2399761	BM	NA	NA	NA	NA	NA	FALSE	Placenta arm (tissue outside the three sources)	mesenchymal stromal cells, fetal side of placenta patient no. 46 rep1
+GSE90149	GSE90149	GSM2399762	BM	NA	NA	NA	NA	NA	FALSE	Placenta arm (tissue outside the three sources)	mesenchymal stromalcells, maternal side of placenta patient no. 46 rep1
+GSE90149	GSE90149	GSM2399763	BM	NA	NA	NA	NA	NA	FALSE	Placenta arm (tissue outside the three sources)	mesenchymal stromal cells, fetal side of placenta patient no. 46 rep2
+GSE90149	GSE90149	GSM2399764	BM	NA	NA	NA	NA	NA	FALSE	Placenta arm (tissue outside the three sources)	mesenchymal stromalcells, maternal side of placenta patient no. 46 rep2
+GSE90149	GSE90149	GSM2399765	BM	NA	NA	NA	NA	NA	FALSE	Placenta arm (tissue outside the three sources)	mesenchymal stromal cells, fetal side of placenta patient no. 47
+GSE90149	GSE90149	GSM2399766	BM	NA	NA	NA	NA	NA	FALSE	Placenta arm (tissue outside the three sources)	mesenchymal stromalcells, maternal side of placenta patient no. 47
+GSE90149	GSE90149	GSM2399767	BM	NA	NA	NA	NA	NA	FALSE	Placenta arm (tissue outside the three sources)	mesenchymal stromal cells, fetal side of placenta patient no. 31
+GSE90149	GSE90149	GSM2399768	BM	NA	NA	NA	NA	NA	FALSE	Placenta arm (tissue outside the three sources)	mesenchymal stromalcells, maternal side of placenta patient no. 30
+GSE111495	GSE111495	GSM3032254	BM	BM01	culture_variant	Platelet-lysate (HPGF/PF10) culture	NA	NA	TRUE	NA	BM01-P2-PF10
+GSE111495	GSE111495	GSM3032256	BM	BM01	culture_variant	Platelet-lysate (HPGF/PF10) culture	NA	NA	TRUE	NA	BM01-P3-PF10
+GSE111495	GSE111495	GSM3032258	BM	BM01	culture_variant	Platelet-lysate (HPGF/PF10) culture	NA	NA	TRUE	NA	BM01-P4-PF10
+GSE111495	GSE111495	GSM3032260	BM	BM03	culture_variant	Platelet-lysate (HPGF/PF10) culture	NA	NA	TRUE	NA	BM03-P3-PF10
+GSE111495	GSE111495	GSM3032262	BM	BM03	culture_variant	Platelet-lysate (HPGF/PF10) culture	NA	NA	TRUE	NA	BM03-P4-PF10
+GSE111495	GSE111495	GSM3032264	BM	BM04	culture_variant	Platelet-lysate (HPGF/PF10) culture	NA	NA	TRUE	NA	BM04-P3-PF10
+GSE111495	GSE111495	GSM3032266	BM	BM04	culture_variant	Platelet-lysate (HPGF/PF10) culture	NA	NA	TRUE	NA	BM04-P4-PF10
+GSE111495	GSE111495	GSM3032268	BM	BM06	culture_variant	Platelet-lysate (HPGF/PF10) culture	NA	NA	TRUE	NA	BM06-P2-PF10
+GSE111495	GSE111495	GSM3032270	BM	BM06	culture_variant	Platelet-lysate (HPGF/PF10) culture	NA	NA	TRUE	NA	BM06-P3-PF10
+GSE111495	GSE111495	GSM3032272	BM	BM06	culture_variant	Platelet-lysate (HPGF/PF10) culture	NA	NA	TRUE	NA	BM06-P4-PF10
+GSE111495	GSE111495	GSM3032274	BM	BM07	culture_variant	Platelet-lysate (HPGF/PF10) culture	NA	NA	TRUE	NA	BM07-P4-PF10
+GSE129801	GSE129801	GSM3722286	BM	MM6	disease_donor	Multiple myeloma / MGUS	NA	NA	TRUE	NA	MM-6
+GSE129801	GSE129801	GSM3722287	BM	MM7	disease_donor	Multiple myeloma / MGUS	NA	NA	TRUE	NA	MM-7
+GSE129801	GSE129801	GSM3722288	BM	MGUS9	disease_donor	Multiple myeloma / MGUS	NA	NA	TRUE	NA	MGUS-9
+GSE129801	GSE129801	GSM3722289	BM	MM8	disease_donor	Multiple myeloma / MGUS	NA	NA	TRUE	NA	MM-8
+GSE129801	GSE129801	GSM3722290	BM	MM9	disease_donor	Multiple myeloma / MGUS	NA	NA	TRUE	NA	MM-9
+GSE129801	GSE129801	GSM3722291	BM	MGUS10	disease_donor	Multiple myeloma / MGUS	NA	NA	TRUE	NA	MGUS-10
+GSE129801	GSE129801	GSM3722292	BM	MM10	disease_donor	Multiple myeloma / MGUS	NA	NA	TRUE	NA	MM-10
+GSE129801	GSE129801	GSM3722293	BM	MM11	disease_donor	Multiple myeloma / MGUS	NA	NA	TRUE	NA	MM-11
+GSE129801	GSE129801	GSM3722294	BM	MGUS11	disease_donor	Multiple myeloma / MGUS	NA	NA	TRUE	NA	MGUS-11
+GSE129801	GSE129801	GSM3722295	BM	MM12	disease_donor	Multiple myeloma / MGUS	NA	NA	TRUE	NA	MM-12
+GSE129801	GSE129801	GSM3722296	BM	MGUS12	disease_donor	Multiple myeloma / MGUS	NA	NA	TRUE	NA	MGUS-12
+GSE129801	GSE129801	GSM3722297	BM	MM13	disease_donor	Multiple myeloma / MGUS	NA	NA	TRUE	NA	MM-13
+GSE129801	GSE129801	GSM3722298	BM	MM14	disease_donor	Multiple myeloma / MGUS	NA	NA	TRUE	NA	MM-14
+GSE129801	GSE129801	GSM3722299	BM	MGUS13	disease_donor	Multiple myeloma / MGUS	NA	NA	TRUE	NA	MGUS-13
+GSE129801	GSE129801	GSM3722300	BM	MM15	disease_donor	Multiple myeloma / MGUS	NA	NA	TRUE	NA	MM-15
+GSE14828	GSE14828	GSM371148	BM	1	treated	FGF treatment (FP)	NA	NA	TRUE	NA	1FP1
+GSE14828	GSE14828	GSM371150	BM	2	treated	FGF treatment (FP)	NA	NA	TRUE	NA	2FP1
+GSE14828	GSE14828	GSM371152	BM	3	treated	FGF treatment (FP)	NA	NA	TRUE	NA	3FP1
+GSE14828	GSE14828	GSM371154	BM	1	treated	FGF treatment (FP)	NA	NA	TRUE	NA	1FP4
+GSE14828	GSE14828	GSM371156	BM	2	treated	FGF treatment (FP)	NA	NA	TRUE	NA	2FP4
+GSE14828	GSE14828	GSM371158	BM	3	treated	FGF treatment (FP)	NA	NA	TRUE	NA	3FP4
+GSE14828	GSE14828	GSM371160	BM	1	treated	FGF treatment (FP)	NA	NA	TRUE	NA	1FP7
+GSE14828	GSE14828	GSM371162	BM	2	treated	FGF treatment (FP)	NA	NA	TRUE	NA	2FP7
+GSE14828	GSE14828	GSM371164	BM	3	treated	FGF treatment (FP)	NA	NA	TRUE	NA	3FP7
+GSE189524	GSE189524	GSM5703090	BM	NA	NA	NA	NA	NA	FALSE	Study excluded at build (UCSC transcript IDs; no symbol annotation)	FO1 O
+GSE189524	GSE189524	GSM5703091	BM	NA	NA	NA	NA	NA	FALSE	Study excluded at build (UCSC transcript IDs; no symbol annotation)	FO2 O
+GSE189524	GSE189524	GSM5703092	BM	NA	NA	NA	NA	NA	FALSE	Study excluded at build (UCSC transcript IDs; no symbol annotation)	FO3 O
+GSE189524	GSE189524	GSM5703093	BM	NA	NA	NA	NA	NA	FALSE	Study excluded at build (UCSC transcript IDs; no symbol annotation)	FO1D O
+GSE189524	GSE189524	GSM5703094	BM	NA	NA	NA	NA	NA	FALSE	Study excluded at build (UCSC transcript IDs; no symbol annotation)	FO2D O
+GSE189524	GSE189524	GSM5703095	BM	NA	NA	NA	NA	NA	FALSE	Study excluded at build (UCSC transcript IDs; no symbol annotation)	FO3D O
+GSE24871	GSE24871	GSM611592	BM	NA	NA	NA	NA	NA	FALSE	Non-MSC control cells (hESC / CD34+ / fibroblasts)	Hematopoietic stem cells CD34-1 - mAdbID:104740
+GSE24871	GSE24871	GSM611593	BM	NA	NA	NA	NA	NA	FALSE	Non-MSC control cells (hESC / CD34+ / fibroblasts)	Hematopoietic stem cells CD34-2 - mAdbID:104741
+GSE24871	GSE24871	GSM611594	BM	NA	NA	NA	NA	NA	FALSE	Non-MSC control cells (hESC / CD34+ / fibroblasts)	Hematopoietic stem cells CD34-3 - mAdbID:104742
+GSE24871	GSE24871	GSM611595	BM	NA	NA	NA	NA	NA	FALSE	Non-MSC control cells (hESC / CD34+ / fibroblasts)	hESCL H9 - mAdbID:104743
+GSE24871	GSE24871	GSM611596	BM	NA	NA	NA	NA	NA	FALSE	Non-MSC control cells (hESC / CD34+ / fibroblasts)	hESCL H1 - mAdbID:104744
+GSE24871	GSE24871	GSM611597	BM	NA	NA	NA	NA	NA	FALSE	Non-MSC control cells (hESC / CD34+ / fibroblasts)	hESCL BG10V - mAdbID:104745
+GSE24871	GSE24871	GSM611605	BM	NA	NA	NA	NA	NA	FALSE	Non-MSC control cells (hESC / CD34+ / fibroblasts)	Fibroblast CRL-2352 - mAdbID:108272
+GSE24871	GSE24871	GSM611606	BM	NA	NA	NA	NA	NA	FALSE	Non-MSC control cells (hESC / CD34+ / fibroblasts)	Fibroblast CRL-2429 - mAdbID:108273
+GSE24871	GSE24871	GSM611607	BM	NA	NA	NA	NA	NA	FALSE	Non-MSC control cells (hESC / CD34+ / fibroblasts)	Fibroblast NuFF1 - mAdbID:108274
+GSE40033	GSE40033	GSM984050	BM	fe_1	other	Fetal donors (fetal BM)	NA	NA	TRUE	NA	Bone marrow mesenchymal stem cells from aborted fetus,replicate 1
+GSE40033	GSE40033	GSM984051	BM	fe_2	other	Fetal donors (fetal BM)	NA	NA	TRUE	NA	Bone marrow mesenchymal stem cells from aborted fetus,replicate 2
+GSE40033	GSE40033	GSM984052	BM	fe_3	other	Fetal donors (fetal BM)	NA	NA	TRUE	NA	Bone marrow mesenchymal stem cells from aborted fetus,replicate 3
+GSE40033	GSE40033	GSM984053	BM	ps_1	disease_donor	Psoriasis donors	NA	NA	TRUE	NA	Bone marrow mesenchymal stem cells from psoriasis patient,replicate 1
+GSE40033	GSE40033	GSM984054	BM	ps_2	disease_donor	Psoriasis donors	NA	NA	TRUE	NA	Bone marrow mesenchymal stem cells from psoriasis patient,replicate 2
+GSE40033	GSE40033	GSM984055	BM	ps_3	disease_donor	Psoriasis donors	NA	NA	TRUE	NA	Bone marrow mesenchymal stem cells from psoriasis patient,replicate 3
+GSE40033	GSE40033	GSM984056	BM	ps_4	disease_donor	Psoriasis donors	NA	NA	TRUE	NA	Bone marrow mesenchymal stem cells from psoriasis patient,replicate 4
+GSE40033	GSE40033	GSM984057	BM	ps_5	disease_donor	Psoriasis donors	NA	NA	TRUE	NA	Bone marrow mesenchymal stem cells from psoriasis patient,replicate 5
+GSE40033	GSE40033	GSM984058	BM	ps_6	disease_donor	Psoriasis donors	NA	NA	TRUE	NA	Bone marrow mesenchymal stem cells from psoriasis patient,replicate 6
+GSE40033	GSE40033	GSM984059	BM	ps_7	disease_donor	Psoriasis donors	NA	NA	TRUE	NA	Bone marrow mesenchymal stem cells from psoriasis patient,replicate 7
+GSE63099	GSE63099	GSM1541223	BM	1	treated	HUVEC co-culture (Treated)	NA	NA	TRUE	NA	Treated donor 1(T5D1)
+GSE63099	GSE63099	GSM1541224	BM	2	treated	HUVEC co-culture (Treated)	NA	NA	TRUE	NA	Treated donor 2(T5D2)
+GSE63099	GSE63099	GSM1541225	BM	3	treated	HUVEC co-culture (Treated)	NA	NA	TRUE	NA	Treated donor 3(T5D3)
+GSE63099	GSE63099	GSM1541226	BM	4	treated	HUVEC co-culture (Treated)	NA	NA	TRUE	NA	Treated donor 4(T5D4)
+GSE63099	GSE63099	GSM1541227	BM	5	treated	HUVEC co-culture (Treated)	NA	NA	TRUE	NA	Treated donor 5(T5D5)
+GSE63099	GSE63099	GSM1541228	BM	6	treated	HUVEC co-culture (Treated)	NA	NA	TRUE	NA	Treated donor 6(T5D6)
+GSE107214	GSE107214	GSM2862846	UC	1	disease_donor	Obese donors (group O)	NA	NA	TRUE	NA	O1_1
+GSE107214	GSE107214	GSM2862847	UC	1	disease_donor	Obese donors (group O)	NA	NA	TRUE	NA	O1_2
+GSE107214	GSE107214	GSM2862848	UC	1	disease_donor	Obese donors (group O)	NA	NA	TRUE	NA	O1_3
+GSE107214	GSE107214	GSM2862849	UC	2	disease_donor	Obese donors (group O)	NA	NA	TRUE	NA	O2_1
+GSE107214	GSE107214	GSM2862850	UC	2	disease_donor	Obese donors (group O)	NA	NA	TRUE	NA	O2_2
+GSE107214	GSE107214	GSM2862851	UC	2	disease_donor	Obese donors (group O)	NA	NA	TRUE	NA	O2_3
+GSE107214	GSE107214	GSM2862852	UC	3	disease_donor	Obese donors (group O)	NA	NA	TRUE	NA	O3_1
+GSE107214	GSE107214	GSM2862853	UC	3	disease_donor	Obese donors (group O)	NA	NA	TRUE	NA	O3_2
+GSE107214	GSE107214	GSM2862854	UC	3	disease_donor	Obese donors (group O)	NA	NA	TRUE	NA	O3_3
+GSE107214	GSE107214	GSM2862855	UC	4	disease_donor	Obese donors (group O)	NA	NA	TRUE	NA	O4_1
+GSE107214	GSE107214	GSM2862856	UC	4	disease_donor	Obese donors (group O)	NA	NA	TRUE	NA	O4_2
+GSE107214	GSE107214	GSM2862857	UC	4	disease_donor	Obese donors (group O)	NA	NA	TRUE	NA	O4_3
+GSE107214	GSE107214	GSM2862858	UC	5	disease_donor	Obese donors (group O)	NA	NA	TRUE	NA	O5_1
+GSE107214	GSE107214	GSM2862859	UC	5	disease_donor	Obese donors (group O)	NA	NA	TRUE	NA	O5_2
+GSE107214	GSE107214	GSM2862860	UC	5	disease_donor	Obese donors (group O)	NA	NA	TRUE	NA	O5_3
+GSE107214	GSE107214	GSM2862861	UC	6	disease_donor	Obese donors (group O)	NA	NA	TRUE	NA	O6_1
+GSE107214	GSE107214	GSM2862862	UC	6	disease_donor	Obese donors (group O)	NA	NA	TRUE	NA	O6_2
+GSE107214	GSE107214	GSM2862863	UC	6	disease_donor	Obese donors (group O)	NA	NA	TRUE	NA	O6_3
+GSE107214	GSE107214	GSM2862864	UC	7	disease_donor	Obese donors (group O)	NA	NA	TRUE	NA	O7_1
+GSE107214	GSE107214	GSM2862865	UC	7	disease_donor	Obese donors (group O)	NA	NA	TRUE	NA	O7_2
+GSE107214	GSE107214	GSM2862866	UC	7	disease_donor	Obese donors (group O)	NA	NA	TRUE	NA	O7_3
+GSE118808	GSE118808	GSM3348027	UC	NA	NA	NA	NA	NA	FALSE	Amnion / chorionic-plate MSC (tissue outside the three sources)	AM-MSC3
+GSE118808	GSE118808	GSM3348028	UC	NA	NA	NA	NA	NA	FALSE	Amnion / chorionic-plate MSC (tissue outside the three sources)	AM-MSC4
+GSE118808	GSE118808	GSM3348029	UC	NA	NA	NA	NA	NA	FALSE	Amnion / chorionic-plate MSC (tissue outside the three sources)	AM-MSC5
+GSE118808	GSE118808	GSM3348030	UC	NA	NA	NA	NA	NA	FALSE	Amnion / chorionic-plate MSC (tissue outside the three sources)	AM-MSC6
+GSE118808	GSE118808	GSM3348031	UC	NA	NA	NA	NA	NA	FALSE	Amnion / chorionic-plate MSC (tissue outside the three sources)	P-MSC3
+GSE118808	GSE118808	GSM3348032	UC	NA	NA	NA	NA	NA	FALSE	Amnion / chorionic-plate MSC (tissue outside the three sources)	P-MSC4
+GSE118808	GSE118808	GSM3348033	UC	NA	NA	NA	NA	NA	FALSE	Amnion / chorionic-plate MSC (tissue outside the three sources)	P-MSC5
+GSE118808	GSE118808	GSM3348034	UC	NA	NA	NA	NA	NA	FALSE	Amnion / chorionic-plate MSC (tissue outside the three sources)	P-MSC6
+GSE165811	GSE165811	GSM5050399	UC	MSC1-blank1	NA	NA	NA	NA	FALSE	Untreated companion control (not the non-standard state)	MSC1-blank1
+GSE165811	GSE165811	GSM5050400	UC	MSC1-blank2	NA	NA	NA	NA	FALSE	Untreated companion control (not the non-standard state)	MSC1-blank2
+GSE165811	GSE165811	GSM5050401	UC	MSC1-blank3	NA	NA	NA	NA	FALSE	Untreated companion control (not the non-standard state)	MSC1-blank3
+GSE165811	GSE165811	GSM5050402	UC	1	treated	2IF (interferon combination) treatment	NA	NA	TRUE	NA	MSC1-2IF-1
+GSE165811	GSE165811	GSM5050403	UC	1	treated	2IF (interferon combination) treatment	NA	NA	TRUE	NA	MSC1-2IF-2
+GSE165811	GSE165811	GSM5050404	UC	1	treated	2IF (interferon combination) treatment	NA	NA	TRUE	NA	MSC1-2IF-3
+GSE165811	GSE165811	GSM5050405	UC	MSC2-blank-1	NA	NA	NA	NA	FALSE	Untreated companion control (not the non-standard state)	MSC2-blank-1
+GSE165811	GSE165811	GSM5050406	UC	MSC2-blank-2	NA	NA	NA	NA	FALSE	Untreated companion control (not the non-standard state)	MSC2-blank-2
+GSE165811	GSE165811	GSM5050407	UC	MSC2-blank-3	NA	NA	NA	NA	FALSE	Untreated companion control (not the non-standard state)	MSC2-blank-3
+GSE165811	GSE165811	GSM5050408	UC	2	treated	2IF (interferon combination) treatment	NA	NA	TRUE	NA	MSC2-2IF-1
+GSE165811	GSE165811	GSM5050409	UC	2	treated	2IF (interferon combination) treatment	NA	NA	TRUE	NA	MSC2-2IF-2
+GSE165811	GSE165811	GSM5050410	UC	2	treated	2IF (interferon combination) treatment	NA	NA	TRUE	NA	MSC2-2IF-3
+GSE165811	GSE165811	GSM5050411	UC	MSC3-blank-1	NA	NA	NA	NA	FALSE	Untreated companion control (not the non-standard state)	MSC3-blank-1
+GSE165811	GSE165811	GSM5050412	UC	MSC3-blank-2	NA	NA	NA	NA	FALSE	Untreated companion control (not the non-standard state)	MSC3-blank-2
+GSE165811	GSE165811	GSM5050413	UC	MSC3-blank-3	NA	NA	NA	NA	FALSE	Untreated companion control (not the non-standard state)	MSC3-blank-3
+GSE165811	GSE165811	GSM5050414	UC	3	treated	2IF (interferon combination) treatment	NA	NA	TRUE	NA	MSC3-2IF-1
+GSE165811	GSE165811	GSM5050415	UC	3	treated	2IF (interferon combination) treatment	NA	NA	TRUE	NA	MSC3-2IF-2
+GSE165811	GSE165811	GSM5050416	UC	3	treated	2IF (interferon combination) treatment	NA	NA	TRUE	NA	MSC3-2IF-3
+GSE169533	GSE169533	GSM5208933	UC	NA	NA	NA	NA	NA	FALSE	Study excluded at build (only 2 samples marked keep)	Human Wharton’s jelly-derived mesenchymal stem cells - 5 μg/mL of Diesel exhaust particle treated 1
+GSE169533	GSE169533	GSM5208934	UC	NA	NA	NA	NA	NA	FALSE	Study excluded at build (only 2 samples marked keep)	Human Wharton’s jelly-derived mesenchymal stem cells - 5 μg/mL of Diesel exhaust particle treated 2
+GSE215041	GSE215041	GSM6620314	UC	NA	NA	NA	NA	NA	FALSE	Salivary-gland MSC and extracellular vesicles (outside the three sources / not cells)	salivary gland mesenchymal stem cells-1
+GSE215041	GSE215041	GSM6620315	UC	NA	NA	NA	NA	NA	FALSE	Salivary-gland MSC and extracellular vesicles (outside the three sources / not cells)	salivary gland mesenchymal stem cells-2
+GSE215041	GSE215041	GSM6620316	UC	NA	NA	NA	NA	NA	FALSE	Salivary-gland MSC and extracellular vesicles (outside the three sources / not cells)	salivary gland mesenchymal stem cells-3
+GSE215041	GSE215041	GSM6620320	UC	NA	NA	NA	NA	NA	FALSE	Salivary-gland MSC and extracellular vesicles (outside the three sources / not cells)	extracellular vesicle from sgMSC-1
+GSE215041	GSE215041	GSM6620321	UC	NA	NA	NA	NA	NA	FALSE	Salivary-gland MSC and extracellular vesicles (outside the three sources / not cells)	extracellular vesicle from sgMSC-2
+GSE215041	GSE215041	GSM6620322	UC	NA	NA	NA	NA	NA	FALSE	Salivary-gland MSC and extracellular vesicles (outside the three sources / not cells)	extracellular vesicle from sgMSC-3
+GSE215041	GSE215041	GSM6620323	UC	NA	NA	NA	NA	NA	FALSE	Salivary-gland MSC and extracellular vesicles (outside the three sources / not cells)	extracellular vesicle from wjMSC-1
+GSE215041	GSE215041	GSM6620324	UC	NA	NA	NA	NA	NA	FALSE	Salivary-gland MSC and extracellular vesicles (outside the three sources / not cells)	extracellular vesicle from wjMSC-2
+GSE215041	GSE215041	GSM6620325	UC	NA	NA	NA	NA	NA	FALSE	Salivary-gland MSC and extracellular vesicles (outside the three sources / not cells)	extracellular vesicle from wjMSC-3
+GSE224190	GSE224190	GSM7017250	UC	1	primed	IL-1beta/TNF-alpha/IFN-gamma pre-treatment	NA	NA	TRUE	NA	hUC-MSCs, IL-1β, TNF-a and IFN-γ treated, primed 1
+GSE224190	GSE224190	GSM7017251	UC	2	primed	IL-1beta/TNF-alpha/IFN-gamma pre-treatment	NA	NA	TRUE	NA	hUC-MSCs, IL-1β, TNF-a and IFN-γ treated, primed 2
+GSE224190	GSE224190	GSM7017252	UC	3	primed	IL-1beta/TNF-alpha/IFN-gamma pre-treatment	NA	NA	TRUE	NA	hUC-MSCs, IL-1β, TNF-a and IFN-γ treated, primed 3
+GSE269586	GSE269586	GSM8322542	UC	NA	NA	NA	NA	NA	FALSE	MACE platform and P2/P3 passages (passages covered by the passage-stability analysis)	MSCs from MCB, passage 2, donor 196, sequenced by RNAseq
+GSE269586	GSE269586	GSM8322543	UC	NA	NA	NA	NA	NA	FALSE	MACE platform and P2/P3 passages (passages covered by the passage-stability analysis)	MSCs from MCB, passage 2, donor 198, sequenced by RNAseq
+GSE269586	GSE269586	GSM8322544	UC	NA	NA	NA	NA	NA	FALSE	MACE platform and P2/P3 passages (passages covered by the passage-stability analysis)	MSCs from MCB, passage 2, donor 199, sequenced by RNAseq
+GSE269586	GSE269586	GSM8322545	UC	NA	NA	NA	NA	NA	FALSE	MACE platform and P2/P3 passages (passages covered by the passage-stability analysis)	MSCs from MCB, passage 2, donor 200, sequenced by RNAseq
+GSE269586	GSE269586	GSM8322546	UC	NA	NA	NA	NA	NA	FALSE	MACE platform and P2/P3 passages (passages covered by the passage-stability analysis)	MSCs from MCB, passage 2, donor 202, sequenced by RNAseq
+GSE269586	GSE269586	GSM8322547	UC	NA	NA	NA	NA	NA	FALSE	MACE platform and P2/P3 passages (passages covered by the passage-stability analysis)	MSCs from MCB, passage 2, donor 206, sequenced by RNAseq
+GSE269586	GSE269586	GSM8322548	UC	NA	NA	NA	NA	NA	FALSE	MACE platform and P2/P3 passages (passages covered by the passage-stability analysis)	MSCs from MCB, passage 3, donor 190, sequenced by RNAseq
+GSE269586	GSE269586	GSM8322549	UC	NA	NA	NA	NA	NA	FALSE	MACE platform and P2/P3 passages (passages covered by the passage-stability analysis)	MSCs from MCB, passage 3, donor 195, sequenced by RNAseq
+GSE269586	GSE269586	GSM8322550	UC	NA	NA	NA	NA	NA	FALSE	MACE platform and P2/P3 passages (passages covered by the passage-stability analysis)	MSCs from MCB, passage 3, donor 197, sequenced by RNAseq
+GSE269586	GSE269586	GSM8322551	UC	NA	NA	NA	NA	NA	FALSE	MACE platform and P2/P3 passages (passages covered by the passage-stability analysis)	MSCs from MCB, passage 3, donor 199, sequenced by RNAseq
+GSE269586	GSE269586	GSM8322552	UC	NA	NA	NA	NA	NA	FALSE	MACE platform and P2/P3 passages (passages covered by the passage-stability analysis)	MSCs from MCB, passage 3, donor 203, sequenced by RNAseq
+GSE269586	GSE269586	GSM8322553	UC	NA	NA	NA	NA	NA	FALSE	MACE platform and P2/P3 passages (passages covered by the passage-stability analysis)	MSCs from MCB, passage 3, donor 205, sequenced by RNAseq
+GSE269586	GSE269586	GSM8322554	UC	NA	NA	NA	NA	NA	FALSE	MACE platform and P2/P3 passages (passages covered by the passage-stability analysis)	MSCs from MCB, passage 0, donor 190, sequenced by MACE
+GSE269586	GSE269586	GSM8322555	UC	NA	NA	NA	NA	NA	FALSE	MACE platform and P2/P3 passages (passages covered by the passage-stability analysis)	MSCs from MCB, passage 0, donor 195, sequenced by MACE
+GSE269586	GSE269586	GSM8322556	UC	NA	NA	NA	NA	NA	FALSE	MACE platform and P2/P3 passages (passages covered by the passage-stability analysis)	MSCs from MCB, passage 0, donor 196, sequenced by MACE
+GSE269586	GSE269586	GSM8322557	UC	NA	NA	NA	NA	NA	FALSE	MACE platform and P2/P3 passages (passages covered by the passage-stability analysis)	MSCs from MCB, passage 0, donor 197, sequenced by MACE
+GSE269586	GSE269586	GSM8322558	UC	NA	NA	NA	NA	NA	FALSE	MACE platform and P2/P3 passages (passages covered by the passage-stability analysis)	MSCs from MCB, passage 0, donor 198, sequenced by MACE
+GSE269586	GSE269586	GSM8322559	UC	NA	NA	NA	NA	NA	FALSE	MACE platform and P2/P3 passages (passages covered by the passage-stability analysis)	MSCs from MCB, passage 0, donor 199, sequenced by MACE
+GSE269586	GSE269586	GSM8322560	UC	NA	NA	NA	NA	NA	FALSE	MACE platform and P2/P3 passages (passages covered by the passage-stability analysis)	MSCs from MCB, passage 0, donor 200, sequenced by MACE
+GSE269586	GSE269586	GSM8322561	UC	NA	NA	NA	NA	NA	FALSE	MACE platform and P2/P3 passages (passages covered by the passage-stability analysis)	MSCs from MCB, passage 0, donor 202, sequenced by MACE
+GSE269586	GSE269586	GSM8322562	UC	NA	NA	NA	NA	NA	FALSE	MACE platform and P2/P3 passages (passages covered by the passage-stability analysis)	MSCs from MCB, passage 0, donor 203, sequenced by MACE
+GSE269586	GSE269586	GSM8322563	UC	NA	NA	NA	NA	NA	FALSE	MACE platform and P2/P3 passages (passages covered by the passage-stability analysis)	MSCs from MCB, passage 0, donor 205, sequenced by MACE
+GSE269586	GSE269586	GSM8322564	UC	NA	NA	NA	NA	NA	FALSE	MACE platform and P2/P3 passages (passages covered by the passage-stability analysis)	MSCs from MCB, passage 0, donor 206, sequenced by MACE
+GSE269586	GSE269586	GSM8322565	UC	NA	NA	NA	NA	NA	FALSE	MACE platform and P2/P3 passages (passages covered by the passage-stability analysis)	MSCs from MCB, passage 2, donor 196, sequenced by MACE
+GSE269586	GSE269586	GSM8322566	UC	NA	NA	NA	NA	NA	FALSE	MACE platform and P2/P3 passages (passages covered by the passage-stability analysis)	MSCs from MCB, passage 2, donor 198, sequenced by MACE
+GSE269586	GSE269586	GSM8322567	UC	NA	NA	NA	NA	NA	FALSE	MACE platform and P2/P3 passages (passages covered by the passage-stability analysis)	MSCs from MCB, passage 2, donor 199, sequenced by MACE
+GSE269586	GSE269586	GSM8322568	UC	NA	NA	NA	NA	NA	FALSE	MACE platform and P2/P3 passages (passages covered by the passage-stability analysis)	MSCs from MCB, passage 2, donor 200, sequenced by MACE
+GSE269586	GSE269586	GSM8322569	UC	NA	NA	NA	NA	NA	FALSE	MACE platform and P2/P3 passages (passages covered by the passage-stability analysis)	MSCs from MCB, passage 2, donor 202, sequenced by MACE
+GSE269586	GSE269586	GSM8322570	UC	NA	NA	NA	NA	NA	FALSE	MACE platform and P2/P3 passages (passages covered by the passage-stability analysis)	MSCs from MCB, passage 2, donor 206, sequenced by MACE
+GSE269586	GSE269586	GSM8322571	UC	NA	NA	NA	NA	NA	FALSE	MACE platform and P2/P3 passages (passages covered by the passage-stability analysis)	MSCs from MCB, passage 3, donor 190, sequenced by MACE
+GSE269586	GSE269586	GSM8322572	UC	NA	NA	NA	NA	NA	FALSE	MACE platform and P2/P3 passages (passages covered by the passage-stability analysis)	MSCs from MCB, passage 3, donor 195, sequenced by MACE
+GSE269586	GSE269586	GSM8322573	UC	NA	NA	NA	NA	NA	FALSE	MACE platform and P2/P3 passages (passages covered by the passage-stability analysis)	MSCs from MCB, passage 3, donor 197, sequenced by MACE
+GSE269586	GSE269586	GSM8322574	UC	NA	NA	NA	NA	NA	FALSE	MACE platform and P2/P3 passages (passages covered by the passage-stability analysis)	MSCs from MCB, passage 3, donor 199, sequenced by MACE
+GSE269586	GSE269586	GSM8322575	UC	NA	NA	NA	NA	NA	FALSE	MACE platform and P2/P3 passages (passages covered by the passage-stability analysis)	MSCs from MCB, passage 3, donor 203, sequenced by MACE
+GSE269586	GSE269586	GSM8322576	UC	NA	NA	NA	NA	NA	FALSE	MACE platform and P2/P3 passages (passages covered by the passage-stability analysis)	MSCs from MCB, passage 3, donor 205, sequenced by MACE
+GSE62665	GSE62665	GSM1531181	UC	1	culture_variant	Serum-free culture	NA	NA	TRUE	NA	Human umbilical cord mesenchymal stem cells cultured in serum free medium, biological rep 1
+GSE62665	GSE62665	GSM1531182	UC	2	culture_variant	Serum-free culture	NA	NA	TRUE	NA	Human umbilical cord mesenchymal stem cells cultured in serum free medium, biological rep 2
+GSE62665	GSE62665	GSM1531183	UC	3	culture_variant	Serum-free culture	NA	NA	TRUE	NA	Human umbilical cord mesenchymal stem cells cultured in serum free medium, biological rep 3
+GSE72597	G20	GSM1865820	UC	NA	NA	NA	NA	NA	FALSE	Umbilical-cord/placenta junction (tissue outside the three sources)	Cord-placenta junction_Patient E
+GSE72597	G20	GSM1865821	UC	NA	NA	NA	NA	NA	FALSE	Umbilical-cord/placenta junction (tissue outside the three sources)	Cord-placenta junction_Patient G
+GSE76295	G20	GSM1979346	UC	NA	NA	NA	NA	NA	FALSE	Umbilical-cord/placenta junction (tissue outside the three sources)	Cord-placenta junction_Early Passage 1
+GSE76295	G20	GSM1979347	UC	NA	NA	NA	NA	NA	FALSE	Umbilical-cord/placenta junction (tissue outside the three sources)	Cord-placenta junction_Early Passage 2
+GSE76295	G20	GSM1979350	UC	NA	NA	NA	NA	NA	FALSE	Umbilical-cord/placenta junction (tissue outside the three sources)	Cord-placenta junction_Late Passage 1
+GSE76295	G20	GSM1979351	UC	NA	NA	NA	NA	NA	FALSE	Umbilical-cord/placenta junction (tissue outside the three sources)	Cord-placenta junction_Late Passage 2
+GSE76295	G20	GSM1979352	UC	NA	NA	NA	NA	NA	FALSE	Umbilical-cord/placenta junction (tissue outside the three sources)	Cord-placenta junction_Late Passage 3

@@ -1,0 +1,78 @@
+layer	gse	cluster_id	n_samples	n_AD	n_BM	n_UC	n_other	platform_class	platform_plot	gpl	full_genome	loso_eval	train_used	passage_series	note
+D	GSE108511	G08	12	3	5	4	0	array	microarray	17586	TRUE	TRUE	TRUE	FALSE	
+D	GSE12274	G02	12	0	12	0	0	array	microarray	570	TRUE	TRUE	TRUE	FALSE	
+D	GSE122778	G09	28	14	14	0	0	array	microarray	6244	TRUE	TRUE	TRUE	FALSE	
+D	GSE128949	G10	11	5	6	0	0	array	microarray	17692	TRUE	TRUE	TRUE	FALSE	
+D	GSE129165	G11	6	0	3	3	0	array	microarray	571	TRUE	TRUE	TRUE	FALSE	
+D	GSE145728	G12	6	3	3	0	0	logCPM	RNA-seq counts	11154	TRUE	TRUE	TRUE	FALSE	
+D	GSE18698	G03	6	3	3	0	0	array	microarray	5175	TRUE	TRUE	TRUE	FALSE	
+D	GSE189895	G02	3	0	3	0	0	logCPM	RNA-seq counts	18460	TRUE	TRUE	TRUE	FALSE	
+D	GSE194298	G02	8	0	8	0	0	log2TPM	RNA-seq TPM/FPKM	NA	TRUE	TRUE	TRUE	FALSE	
+D	GSE19773	G04	4	2	2	0	0	array	microarray	7363	TRUE	TRUE	TRUE	FALSE	
+D	GSE199826	G13	27	9	9	9	0	log2TPM	RNA-seq TPM/FPKM	11154	TRUE	TRUE	TRUE	FALSE	
+D	GSE283154	G14	12	4	4	4	0	logCPM	RNA-seq counts	24676	TRUE	TRUE	TRUE	FALSE	
+D	GSE37065	G02	3	0	3	0	0	array	microarray	6244	TRUE	TRUE	TRUE	FALSE	
+D	GSE38947	G05	6	3	3	0	0	array	microarray	14550	FALSE	FALSE	FALSE	FALSE	Pre-screening matrix: evaluated by LOSO with D2 exited; not genome-wide (not used for training)
+D	GSE48022	G06	7	0	4	3	0	array	microarray	570	TRUE	TRUE	TRUE	FALSE	
+D	GSE57151	G02	9	3	3	3	0	array	microarray	16686	TRUE	TRUE	TRUE	FALSE	
+D	GSE72332	G07	6	3	3	0	0	array	microarray	20843	TRUE	TRUE	TRUE	FALSE	
+D	GSE8954	G01	8	4	4	0	0	array	microarray	201	FALSE	TRUE	FALSE	FALSE	Microarray-focused; not genome-wide (not used for training; LOSO fold universe 4563 genes)
+D	GSE9520	G02	6	0	6	0	0	array	microarray	570	TRUE	TRUE	TRUE	FALSE	
+C	GSE107214	GSE107214	21	0	0	21	0	array	microarray	NA	FALSE	NA	NA	FALSE	
+C	GSE111495	GSE111495	11	0	11	0	0	array	microarray	NA	FALSE	NA	NA	FALSE	
+C	GSE118808	GSE118808	4	0	0	4	0	logCPM	RNA-seq counts	NA	FALSE	NA	NA	FALSE	
+C	GSE129801	GSE129801	7	0	7	0	0	logCPM	RNA-seq counts	NA	FALSE	NA	NA	FALSE	
+C	GSE144605	GSE144605	3	3	0	0	0	array	microarray	NA	FALSE	NA	NA	FALSE	
+C	GSE14828	GSE14828	9	0	9	0	0	log2TPM	RNA-seq TPM/FPKM	NA	FALSE	NA	NA	FALSE	
+C	GSE165811	GSE165811	32	0	0	32	0	logCPM	RNA-seq counts	NA	FALSE	NA	NA	FALSE	
+C	GSE200086	GSE200086	4	4	0	0	0	logCPM	RNA-seq counts	NA	FALSE	NA	NA	FALSE	
+C	GSE215041	GSE215041	3	0	0	3	0	logCPM	RNA-seq counts	NA	FALSE	NA	NA	FALSE	
+C	GSE217709	GSE217709	9	9	0	0	0	log2TPM	RNA-seq TPM/FPKM	NA	FALSE	NA	NA	FALSE	
+C	GSE222263	GSE222263	3	3	0	0	0	log2TPM	RNA-seq TPM/FPKM	NA	FALSE	NA	NA	FALSE	
+C	GSE224190	GSE224190	3	0	0	3	0	log2TPM	RNA-seq TPM/FPKM	NA	FALSE	NA	NA	FALSE	
+C	GSE24871	GSE24871	7	0	7	0	0	array	microarray	NA	FALSE	NA	NA	FALSE	
+C	GSE265844	GSE265844	4	4	0	0	0	log2TPM	RNA-seq TPM/FPKM	NA	FALSE	NA	NA	FALSE	
+C	GSE269586	GSE269586	11	0	0	11	0	logCPM	RNA-seq counts	18573;24676	TRUE	NA	NA	FALSE	
+C	GSE308101	GSE308101	5	5	0	0	0	log2TPM	RNA-seq TPM/FPKM	NA	FALSE	NA	NA	FALSE	
+C	GSE40033	GSE40033	4	0	4	0	0	log2TPM	RNA-seq TPM/FPKM	NA	FALSE	NA	NA	FALSE	
+C	GSE62665	GSE62665	3	0	0	3	0	array	microarray	NA	FALSE	NA	NA	FALSE	
+C	GSE63099	GSE63099	6	0	6	0	0	array	microarray	NA	FALSE	NA	NA	FALSE	
+C	GSE72597	G20	5	0	0	5	0	array	microarray	NA	FALSE	NA	NA	FALSE	
+C	GSE76295	G20	11	0	0	11	0	array	microarray	NA	FALSE	NA	NA	FALSE	
+C	GSE90149	GSE90149	11	0	11	0	0	array	microarray	NA	FALSE	NA	NA	FALSE	
+supp	GSE139073	G40	33	0	33	0	0	logCPM	RNA-seq counts	18460;20301	TRUE	NA	NA	TRUE	Passage series
+supp	GSE178514	passage_GSE178514	9	0	9	0	0	log2TPM	RNA-seq TPM/FPKM	NA	TRUE	NA	NA	TRUE	Passage series
+supp	GSE275980	G42	9	0	0	9	0	logCPM	RNA-seq counts	29480	TRUE	NA	NA	TRUE	Passage series
+supp	GSE276163	passage_GSE276163	15	15	0	0	0	log2TPM	RNA-seq TPM/FPKM	NA	TRUE	NA	NA	TRUE	Passage series
+supp	GSE291956	G44	24	24	0	0	0	logCPM	RNA-seq counts	23227	TRUE	NA	NA	TRUE	Passage series
+supp	GSE309666	G44	18	18	0	0	0	logCPM	RNA-seq counts	28038	TRUE	NA	NA	TRUE	Passage series
+supp	GSE34303	passage_GSE34303	57	0	57	0	0	array	microarray	NA	TRUE	NA	NA	TRUE	Passage series
+supp	GSE39035	passage_GSE39035	16	0	16	0	0	array	microarray	NA	TRUE	NA	NA	TRUE	Passage series
+supp	GSE46019	passage_GSE46019	6	0	6	0	0	array	microarray	NA	TRUE	NA	NA	TRUE	Passage series
+supp	GSE51869	G55	11	0	0	11	0	array	microarray	570	TRUE	NA	NA	FALSE	Non-passage
+supp	GSE9451	G54	3	0	3	0	0	array	microarray	570	TRUE	NA	NA	FALSE	Non-passage
+supp	GSE9593	passage_GSE9593	13	0	13	0	0	log2TPM	RNA-seq TPM/FPKM	NA	TRUE	NA	NA	TRUE	Passage series
+O_arm	GSE107214	GSE107214	21	0	0	21	0	array	microarray	NA	NA	NA	NA	NA	Arm samples; home layer = C
+O_arm	GSE111495	GSE111495	11	0	11	0	0	array	microarray	NA	NA	NA	NA	NA	Arm samples; home layer = C
+O_arm	GSE129801	GSE129801	15	0	15	0	0	logCPM	RNA-seq counts	NA	NA	NA	NA	NA	Arm samples; home layer = C
+O_arm	GSE144605	GSE144605	3	3	0	0	0	array	microarray	NA	NA	NA	NA	NA	Arm samples; home layer = C
+O_arm	GSE14828	GSE14828	9	0	9	0	0	log2TPM	RNA-seq TPM/FPKM	NA	NA	NA	NA	NA	Arm samples; home layer = C
+O_arm	GSE165811	GSE165811	9	0	0	9	0	logCPM	RNA-seq counts	NA	NA	NA	NA	NA	Arm samples; home layer = C
+O_arm	GSE200086	GSE200086	4	4	0	0	0	logCPM	RNA-seq counts	NA	NA	NA	NA	NA	Arm samples; home layer = C
+O_arm	GSE217709	GSE217709	29	29	0	0	0	log2TPM	RNA-seq TPM/FPKM	NA	NA	NA	NA	NA	Arm samples; home layer = C
+O_arm	GSE222263	GSE222263	3	3	0	0	0	log2TPM	RNA-seq TPM/FPKM	NA	NA	NA	NA	NA	Arm samples; home layer = C
+O_arm	GSE224190	GSE224190	3	0	0	3	0	log2TPM	RNA-seq TPM/FPKM	NA	NA	NA	NA	NA	Arm samples; home layer = C
+O_arm	GSE265844	GSE265844	4	4	0	0	0	log2TPM	RNA-seq TPM/FPKM	NA	NA	NA	NA	NA	Arm samples; home layer = C
+O_arm	GSE308101	GSE308101	10	10	0	0	0	log2TPM	RNA-seq TPM/FPKM	NA	NA	NA	NA	NA	Arm samples; home layer = C
+O_arm	GSE40033	GSE40033	10	0	10	0	0	log2TPM	RNA-seq TPM/FPKM	NA	NA	NA	NA	NA	Arm samples; home layer = C
+O_arm	GSE62665	GSE62665	3	0	0	3	0	array	microarray	NA	NA	NA	NA	NA	Arm samples; home layer = C
+O_arm	GSE63099	GSE63099	6	0	6	0	0	array	microarray	NA	NA	NA	NA	NA	Arm samples; home layer = C
+O_ooc	GSE123973	GSE123973	15	0	0	0	15	NA	NA	NA	NA	NA	NA	NA	Non-target tissue (dental_pulp)
+O_ooc	GSE269628	GSE269628	6	0	0	0	6	NA	NA	NA	NA	NA	NA	NA	Non-target tissue (periodontal)
+O_ooc	GSE272480	GSE272480	3	0	0	0	3	NA	NA	NA	NA	NA	NA	NA	Non-target tissue (ipsc_derived)
+O_ooc	GSE28385	GSE28385	3	0	0	0	3	NA	NA	NA	NA	NA	NA	NA	Non-target tissue (amnion)
+O_ooc	GSE310465	GSE310465	10	0	0	0	10	NA	NA	NA	NA	NA	NA	NA	Non-target tissue (ipsc_derived)
+O_ooc	GSE58474	GSE58474	12	0	0	0	12	NA	NA	NA	NA	NA	NA	NA	Non-target tissue (bone)
+O_ooc	GSE62505	GSE62505	9	0	0	0	9	NA	NA	NA	NA	NA	NA	NA	Non-target tissue (brain)
+O_ooc	GSE77272	GSE77272	4	0	0	0	4	NA	NA	NA	NA	NA	NA	NA	Non-target tissue (tonsil)
+O_ooc	GSE88865	GSE88865	3	0	0	0	3	NA	NA	NA	NA	NA	NA	NA	Non-target tissue (placenta)
